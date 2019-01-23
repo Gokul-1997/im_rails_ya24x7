@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  page: one
+  role: one
+  pageauthorization: one
+  tenant: one
+
+two:
+  page: two
+  role: two
+  pageauthorization: two
+  tenant: two

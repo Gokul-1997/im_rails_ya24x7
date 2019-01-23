@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  operation_name: MyString
+  description: MyString
+  plan_status: MyString
+  cncjob: one
+  tenant: one
+
+two:
+  operation_name: MyString
+  description: MyString
+  plan_status: MyString
+  cncjob: two
+  tenant: two

@@ -1,0 +1,2 @@
+class AlarmType < ApplicationRecord
+end

@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyString
+  job_start_date: 2017-02-23
+  job_due_date: 2017-02-23
+  order_quantity: 1
+  cncclient: one
+  tenant: one
+
+two:
+  description: MyString
+  job_start_date: 2017-02-23
+  job_due_date: 2017-02-23
+  order_quantity: 1
+  cncclient: two
+  tenant: two

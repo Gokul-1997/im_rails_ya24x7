@@ -1,0 +1,2 @@
+class CronReport < ApplicationRecord
+end

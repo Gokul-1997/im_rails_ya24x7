@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  no_of_rejects: 1
+  no_of_parts_produced: 1
+  parts_moved_to_next_operation: 1
+  total_down_time: 2017-02-23 15:00:47
+  reason_for_down_time: MyString
+  last_machine_reset_time: 2017-02-23 15:00:47
+  remarks: MyString
+  operatorworkingdetail: one
+  tenant: one
+
+two:
+  no_of_rejects: 1
+  no_of_parts_produced: 1
+  parts_moved_to_next_operation: 1
+  total_down_time: 2017-02-23 15:00:47
+  reason_for_down_time: MyString
+  last_machine_reset_time: 2017-02-23 15:00:47
+  remarks: MyString
+  operatorworkingdetail: two
+  tenant: two

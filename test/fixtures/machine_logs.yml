@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  last_reset_time: MyString
+  parts_count: MyString
+  machine_status: MyString
+  last_machine_on: MyString
+  last_machine_off: MyString
+  machine: one
+
+two:
+  last_reset_time: MyString
+  parts_count: MyString
+  machine_status: MyString
+  last_machine_on: MyString
+  last_machine_off: MyString
+  machine: two

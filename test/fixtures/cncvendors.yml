@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vendor_name: MyString
+  start_date: 2017-02-23
+  delivery_date: 2017-02-23
+  quantity: 1
+  phone_number: MyString
+  email_id: MyString
+  cncoperation: one
+  tenant: one
+
+two:
+  vendor_name: MyString
+  start_date: 2017-02-23
+  delivery_date: 2017-02-23
+  quantity: 1
+  phone_number: MyString
+  email_id: MyString
+  cncoperation: two
+  tenant: two

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' /> -->
+  </head>
+  <body>
+    <h1>Shift Checked Details</h1>
+      <table class="table" border = "1">
+            <thead>
+              <tr>
+               <th>Tenant</th>
+               <th>Shift No</th>
+               <th>Shift Time</th>
+               <th>Pick Time</th>
+              </tr>
+            </thead>
+            <tbody>
+              <% @timing.each do |data| %>
+              <tr>
+                <td><%= data[:tenant] %></td>
+                <td><%= data[:shift] %></td>
+                <td><%= data[:sh_time] %></td>
+                <td><%= data[:time] %></td>
+              </tr>
+              <% end %>
+            </tbody>
+          </table>
+    
+  </body>
+</html>

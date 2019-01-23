@@ -1,0 +1,822 @@
+Script started on Tuesday 13 March 2018 03:16:32 PM IST
+]0;yantra@yantra: ~/yantra/yantra_awsyantra@yantra:~/yantra/yantra_aws$ exitrails s -b 192.168.1.48 -p 3001[15Pcd Test_Emerald/..[KTest_Emerald/rails s -b 192.168.1.48 -p 3001exit[K[Kscr
+screen        screendump    script        scriptreplay  
+]0;yantra@yantra: ~/yantra/yantra_awsyantra@yantra:~/yantra/yantra_aws$ script/runner -e development Alarm.notifiv[Kcation
+bash: script/runner: No such file or directory
+]0;yantra@yantra: ~/yantra/yantra_awsyantra@yantra:~/yantra/yantra_aws$ script/runner -e development Alarm.notification[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kbin/rubyscript/runner -e development Alarm.notification[1P[1P[1P[C[1P[1P[1P[1P[C[C[1@/
+bash: bin/ruby/script: No such file or directory
+]0;yantra@yantra: ~/yantra/yantra_awsyantra@yantra:~/yantra/yantra_aws$ bin/ruby/script -e development Alarm.notification[1P[1P[1P[1P[1P[1P[1P[1P[1P
+Script started, file is development
+]0;yantra@yantra: ~/yantra/yantra_awsyantra@yantra:~/yantra/yantra_aws$ tails [K[K -f log/development.log 
+  [1m[36mShift Load (0.3ms)[0m  [1m[34mSELECT  `shifts`.* FROM `shifts` WHERE `shifts`.`deleted_at` IS NULL AND `shifts`.`id` = 6 LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mReport Load (0.8ms)[0m  [1m[34mSELECT `reports`.* FROM `reports` WHERE `reports`.`date` = '2018-03-13' AND `reports`.`shift_no` = 1 AND `reports`.`machine_id` = 11 AND `reports`.`tenant_id` = 7[0m
+  [1m[36mReport Load (0.7ms)[0m  [1m[34mSELECT  `reports`.* FROM `reports` WHERE `reports`.`date` = '2018-03-13' AND `reports`.`shift_no` = 1 AND `reports`.`machine_id` = 11 AND `reports`.`tenant_id` = 7 LIMIT 1[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mMachine Load (0.3ms)[0m  [1m[34mSELECT  `machines`.* FROM `machines` WHERE `machines`.`deleted_at` IS NULL AND `machines`.`id` = 11 LIMIT 1[0m
+  [1m[36mTenant Load (0.3ms)[0m  [1m[34mSELECT  `tenants`.* FROM `tenants` WHERE `tenants`.`deleted_at` IS NULL AND `tenants`.`id` = 7 LIMIT 1[0m
+  [1m[36mShift Load (0.3ms)[0m  [1m[34mSELECT  `shifts`.* FROM `shifts` WHERE `shifts`.`deleted_at` IS NULL AND `shifts`.`id` = 7 LIMIT 1[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[33mUPDATE `reports` SET `idle_time` = '06:40:06', `total_downtime` = '06:40:06', `updated_at` = '2018-03-13 09:40:09' WHERE `reports`.`id` = 708[0m
+  [1m[35m (1.3ms)[0m  [1m[35mCOMMIT[0m
+
+
+
+
+^C
+]0;yantra@yantra: ~/yantra/yantra_awsyantra@yantra:~/yantra/yantra_aws$ tail -f log/development.log exit[Krails s -b 192.168.1.48 -p 3001[15Pcd Test_Emerald/rails s -b 192.168.1.48 -p 3001exit[Ktail -f log/development.log [Kscript -e development Alarm.notification
+Script started, file is development
+]0;yantra@yantra: ~/yantra/yantra_awsyantra@yantra:~/yantra/yantra_aws$ exitrails s -b 192.168.1.48 -p 3001[15Pcd Test_Emerald/..[Krails s -b 192.168.1.48 -p 3007cd ..[KTest_Emerald/rails s -b 192.168.1.48 -p 3001exit[K[Kexitrails s -b 192.168.1.48 -p 3001[15Pcd Test_Emerald/..[Krails s -b 192.168.1.48 -p 3007[18Pcd yantra_aws..[Krails c[2Pcd ..yantra_awsrails s -b 192.168.1.48 -p 3007cd ..[KTest_Emerald/rails s -b 192.168.1.48 -p 3001exit[K[Ktal[Kil -f log/development.log 
+  [1m[36mShift Load (0.3ms)[0m  [1m[34mSELECT  `shifts`.* FROM `shifts` WHERE `shifts`.`deleted_at` IS NULL AND `shifts`.`id` = 6 LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mReport Load (0.8ms)[0m  [1m[34mSELECT `reports`.* FROM `reports` WHERE `reports`.`date` = '2018-03-13' AND `reports`.`shift_no` = 1 AND `reports`.`machine_id` = 11 AND `reports`.`tenant_id` = 7[0m
+  [1m[36mReport Load (0.7ms)[0m  [1m[34mSELECT  `reports`.* FROM `reports` WHERE `reports`.`date` = '2018-03-13' AND `reports`.`shift_no` = 1 AND `reports`.`machine_id` = 11 AND `reports`.`tenant_id` = 7 LIMIT 1[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mMachine Load (0.3ms)[0m  [1m[34mSELECT  `machines`.* FROM `machines` WHERE `machines`.`deleted_at` IS NULL AND `machines`.`id` = 11 LIMIT 1[0m
+  [1m[36mTenant Load (0.3ms)[0m  [1m[34mSELECT  `tenants`.* FROM `tenants` WHERE `tenants`.`deleted_at` IS NULL AND `tenants`.`id` = 7 LIMIT 1[0m
+  [1m[36mShift Load (0.3ms)[0m  [1m[34mSELECT  `shifts`.* FROM `shifts` WHERE `shifts`.`deleted_at` IS NULL AND `shifts`.`id` = 7 LIMIT 1[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[33mUPDATE `reports` SET `idle_time` = '06:40:06', `total_downtime` = '06:40:06', `updated_at` = '2018-03-13 09:40:09' WHERE `reports`.`id` = 708[0m
+  [1m[35m (1.3ms)[0m  [1m[35mCOMMIT[0m
+^C
+]0;yantra@yantra: ~/yantra/yantra_awsyantra@yantra:~/yantra/yantra_aws$ tail -f log/development.log exit[Krails s -b 192.168.1.48 -p 3001
+^C/home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/uri/common.rb:349:in `block in <module:URI>': Interrupt
+	from /home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/uri/common.rb:344:in `times'
+	from /home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/uri/common.rb:344:in `<module:URI>'
+	from /home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/uri/common.rb:16:in `<top (required)>'
+	from /home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/uri.rb:105:in `<top (required)>'
+	from /home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rubygems/source.rb:2:in `<top (required)>'
+	from /home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/bundler-1.16.0/lib/bundler/rubygems_ext.rb:16:in `<top (required)>'
+	from /home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/bundler-1.16.0/lib/bundler.rb:13:in `<top (required)>'
+	from /home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/bundler-1.16.0/lib/bundler/setup.rb:6:in `<top (required)>'
+	from /home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+
+]0;yantra@yantra: ~/yantra/yantra_awsyantra@yantra:~/yantra/yantra_aws$ rails s -b 192.168.1.48 -p 3001[K7
+/home/yantra/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/yantra/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+=> Booting Puma
+=> Rails 5.0.1 application starting in development on http://192.168.1.48:3007
+=> Run `rails server -h` for more startup options
+/home/yantra/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+Puma starting in single mode...
+* Version 3.7.1 (ruby 2.4.2-p198), codename: Snowy Sagebrush
+* Min threads: 5, max threads: 5
+* Environment: development
+* Listening on tcp://192.168.1.48:3007
+Use Ctrl-C to stop
+Started POST "/api/v1/sessions" for 183.82.250.142 at 2018-03-13 15:20:04 +0530
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1m[34mSELECT `schema_migrations`.* FROM `schema_migrations`[0m
+Processing by Api::V1::SessionsController#create as JSON
+  Parameters: {"email_id"=>"glidertechautomation@yahoo.com", "password"=>"[FILTERED]", "session"=>{}}
+/home/yantra/yantra/yantra_aws/app/models/user.rb:26: warning: string literal in condition
+  [1m[36mUser Load (1.1ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`deleted_at` IS NULL AND `users`.`email_id` = 'glidertechautomation@yahoo.com' LIMIT 1[0m
+[active_model_serializers] Rendered ActiveModel::Serializer::Null with Hash (0.35ms)
+Completed 200 OK in 113ms (Views: 14.8ms | ActiveRecord: 43.5ms)
+
+
+Started GET "/api/v1/users/1" for 183.82.250.142 at 2018-03-13 15:20:07 +0530
+Started GET "/api/v1/menuconfigurations/page_detail?tenant_id=1&role_id=1" for 183.82.250.142 at 2018-03-13 15:20:07 +0530
+Started GET "/api/v1/tenants/1" for 183.82.250.142 at 2018-03-13 15:20:07 +0530
+Processing by Api::V1::TenantsController#show as JSON
+Processing by Api::V1::MenuconfigurationsController#page_detail as JSON
+  Parameters: {"tenant_id"=>"1", "role_id"=>"1"}
+Processing by Api::V1::UsersController#show as JSON
+  Parameters: {"id"=>"1"}
+Started GET "/api/v1/roles/role_detail?role_id=1" for 183.82.250.142 at 2018-03-13 15:20:08 +0530
+Started GET "/api/v1/alarms/alarm_dashboard?tenant_id=1" for 183.82.250.142 at 2018-03-13 15:20:08 +0530
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (42.9ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`deleted_at` IS NULL AND `users`.`id` = 1 LIMIT 1[0m
+Processing by Api::V1::RolesController#role_detail as JSON
+Processing by Api::V1::AlarmsController#alarm_dashboard as JSON
+  Parameters: {"role_id"=>"1"}
+  Parameters: {"tenant_id"=>"1"}
+  [1m[36mMenuconfiguration Load (13.1ms)[0m  [1m[34mSELECT `menuconfigurations`.* FROM `menuconfigurations` WHERE `menuconfigurations`.`tenant_id` = 1 AND `menuconfigurations`.`role_id` = 1[0m
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.14ms)
+Completed 200 OK in 526ms (Views: 1.3ms | ActiveRecord: 107.7ms)
+
+
+  [1m[36mTenant Load (5.7ms)[0m  [1m[34mSELECT  `tenants`.* FROM `tenants` WHERE `tenants`.`deleted_at` IS NULL AND `tenants`.`id` = 1 LIMIT 1[0m
+[active_model_serializers]   [1m[36mTenant Load (25.1ms)[0m  [1m[34mSELECT  `tenants`.* FROM `tenants` WHERE `tenants`.`deleted_at` IS NULL AND `tenants`.`id` = 1 LIMIT 1[0m
+/home/yantra/yantra/yantra_aws/app/models/alarm.rb:152: warning: `?' just followed by `alarm' is interpreted as a conditional operator, put a space after `?'
+/home/yantra/yantra/yantra_aws/app/models/alarm.rb:153: warning: `?' just followed by `alarm' is interpreted as a conditional operator, put a space after `?'
+/home/yantra/yantra/yantra_aws/app/models/alarm.rb:155: warning: `?' just followed by `alarm' is interpreted as a conditional operator, put a space after `?'
+/home/yantra/yantra/yantra_aws/app/models/alarm.rb:156: warning: `?' just followed by `alarm' is interpreted as a conditional operator, put a space after `?'
+[active_model_serializers] Rendered UserSerializer with ActiveModelSerializers::Adapter::Attributes (198.5ms)
+Completed 200 OK in 677ms (Views: 591.2ms | ActiveRecord: 82.7ms)
+
+
+  [1m[36mRole Load (1.4ms)[0m  [1m[34mSELECT  `roles`.* FROM `roles` WHERE `roles`.`id` = 1 LIMIT 1[0m
+[active_model_serializers] Rendered RoleSerializer with ActiveModelSerializers::Adapter::Attributes (0.32ms)
+Started GET "/api/v1/machines/dashboard_test?tenant_id=1" for 183.82.250.142 at 2018-03-13 15:20:09 +0530
+Completed 200 OK in 267ms (Views: 75.9ms | ActiveRecord: 29.8ms)
+
+
+[active_model_serializers]   [1m[36mUser Load (7.2ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`deleted_at` IS NULL AND `users`.`tenant_id` = 1 LIMIT 1[0m
+  [1m[35mSQL (14.3ms)[0m  [1m[34mSELECT  DISTINCT `alarms`.`id` AS t0_r0, `alarms`.`alarm_type` AS t0_r1, `alarms`.`alarm_number` AS t0_r2, `alarms`.`alarm_message` AS t0_r3, `alarms`.`emergency` AS t0_r4, `alarms`.`machine_id` AS t0_r5, `alarms`.`created_at` AS t0_r6, `alarms`.`updated_at` AS t0_r7, `alarms`.`deleted_at` AS t0_r8, `machines`.`id` AS t1_r0, `machines`.`machine_name` AS t1_r1, `machines`.`machine_model` AS t1_r2, `machines`.`machine_serial_no` AS t1_r3, `machines`.`machine_type` AS t1_r4, `machines`.`tenant_id` AS t1_r5, `machines`.`created_at` AS t1_r6, `machines`.`updated_at` AS t1_r7, `machines`.`isactive` AS t1_r8, `machines`.`deleted_at` AS t1_r9, `machines`.`machine_ip` AS t1_r10 FROM `alarms` LEFT OUTER JOIN `machines` ON `machines`.`id` = `alarms`.`machine_id` AND `machines`.`deleted_at` IS NULL WHERE `alarms`.`deleted_at` IS NULL AND `machines`.`tenant_id` = 1 ORDER BY `alarms`.`id` DESC LIMIT 6[0m
+Processing by Api::V1::MachinesController#dashboard_test as JSON
+Started GET "/api/v1/operator_mapping_allocations?tenant_id=1" for 183.82.250.142 at 2018-03-13 15:20:09 +0530
+  Parameters: {"tenant_id"=>"1"}
+[active_model_serializers]   [1m[36mEthernetLog Load (20.8ms)[0m  [1m[34mSELECT `ethernet_logs`.* FROM `ethernet_logs` WHERE `ethernet_logs`.`tenant_id` = 1[0m
+Processing by Api::V1::OperatorMappingAllocationsController#index as JSON
+[active_model_serializers] Rendered TenantSerializer with ActiveModelSerializers::Adapter::Attributes (318.43ms)
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (171.35ms)
+  Parameters: {"tenant_id"=>"1"}
+  [1m[36mTenant Load (50.1ms)[0m  [1m[34mSELECT  `tenants`.* FROM `tenants` WHERE `tenants`.`deleted_at` IS NULL AND `tenants`.`id` = 1 LIMIT 1[0m
+Completed 200 OK in 1083ms (Views: 496.5ms | ActiveRecord: 50.5ms)
+
+
+Completed 200 OK in 575ms (Views: 195.9ms | ActiveRecord: 55.3ms)
+
+
+  [1m[36mTenant Load (2.3ms)[0m  [1m[34mSELECT  `tenants`.* FROM `tenants` WHERE `tenants`.`deleted_at` IS NULL AND `tenants`.`id` = 1 LIMIT 1[0m
+  [1m[36mTenant Load (2.4ms)[0m  [1m[34mSELECT  `tenants`.* FROM `tenants` WHERE `tenants`.`deleted_at` IS NULL AND `tenants`.`id` = 1 LIMIT 1[0m
+  [1m[36mShift Load (3.9ms)[0m  [1m[34mSELECT  `shifts`.* FROM `shifts` WHERE `shifts`.`deleted_at` IS NULL AND `shifts`.`tenant_id` = 1 LIMIT 1[0m
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT `operators`.`id` FROM `operators` WHERE `operators`.`tenant_id` = 1[0m
+  [1m[36mOperatorMappingAllocation Load (9.1ms)[0m  [1m[34mSELECT `operator_mapping_allocations`.* FROM `operator_mapping_allocations` WHERE `operator_mapping_allocations`.`operator_id` = 1 AND `operator_mapping_allocations`.`date` = '2018-03-13'[0m
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with ActiveModelSerializers::Adapter::Attributes (0.15ms)
+Completed 200 OK in 127ms (Views: 3.1ms | ActiveRecord: 55.0ms)
+
+
+  [1m[36mShifttransaction Load (2.3ms)[0m  [1m[34mSELECT `shifttransactions`.* FROM `shifttransactions` WHERE `shifttransactions`.`deleted_at` IS NULL AND `shifttransactions`.`shift_id` = 1[0m
+  [1m[36mMachine Load (134.7ms)[0m  [1m[34mSELECT `machines`.* FROM `machines` WHERE `machines`.`deleted_at` IS NULL AND `machines`.`tenant_id` = 1 ORDER BY `machines`.`id` ASC[0m
+  [1m[36mMachineDailyLog Load (112.8ms)[0m  [1m[34mSELECT `machine_daily_logs`.* FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 1 AND (created_at >='2018-03-13 03:30:00' AND created_at <'2018-03-13 15:30:00') ORDER BY `machine_daily_logs`.`id` ASC[0m
+  [1m[35m (73.0ms)[0m  [1m[34mSELECT COUNT(*) FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 1 AND (created_at >='2018-03-13 03:30:00' AND created_at <'2018-03-13 15:30:00') AND (`machine_daily_logs`.`parts_count` != -1)[0m
+  [1m[36mMachineDailyLog Load (115.7ms)[0m  [1m[34mSELECT  `machine_daily_logs`.* FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 1 AND (created_at >='2018-03-13 03:30:00' AND created_at <'2018-03-13 15:30:00') AND (`machine_daily_logs`.`parts_count` != -1) ORDER BY `machine_daily_logs`.`id` DESC LIMIT 1[0m
+  [1m[36mMachineDailyLog Load (3.9ms)[0m  [1m[34mSELECT  `machine_daily_logs`.* FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 1 ORDER BY `machine_daily_logs`.`id` DESC LIMIT 1[0m
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `machine_daily_logs`.* FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 1 ORDER BY `machine_daily_logs`.`id` DESC LIMIT 1[0m  [["machine_id", 1], ["LIMIT", 1]]
+  [1m[36mMachineDailyLog Load (7.2ms)[0m  [1m[34mSELECT  `machine_daily_logs`.* FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 1 AND (`machine_daily_logs`.`job_id` != '') AND (`machine_daily_logs`.`programe_number` IS NOT NULL) ORDER BY `machine_daily_logs`.`id` DESC LIMIT 1[0m
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `machine_daily_logs`.* FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 1 AND (`machine_daily_logs`.`job_id` != '') AND (`machine_daily_logs`.`programe_number` IS NOT NULL) ORDER BY `machine_daily_logs`.`id` DESC LIMIT 1[0m  [["machine_id", 1], ["job_id", ""], ["LIMIT", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `machine_daily_logs`.* FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 1 AND (`machine_daily_logs`.`job_id` != '') AND (`machine_daily_logs`.`programe_number` IS NOT NULL) ORDER BY `machine_daily_logs`.`id` DESC LIMIT 1[0m  [["machine_id", 1], ["job_id", ""], ["LIMIT", 1]]
+  [1m[36mAlarm Load (2.5ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 1 ORDER BY `alarms`.`id` DESC LIMIT 1[0m
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 1 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 1], ["LIMIT", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 1 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 1], ["LIMIT", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 1 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 1], ["LIMIT", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 1 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 1], ["LIMIT", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 1 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 1], ["LIMIT", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 1 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 1], ["LIMIT", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 1 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 1], ["LIMIT", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 1 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 1], ["LIMIT", 1]]
+  [1m[36mDataLossEntry Load (1148.9ms)[0m  [1m[34mSELECT `data_loss_entries`.* FROM `data_loss_entries` WHERE `data_loss_entries`.`machine_id` = 1 AND (created_at >'2018-03-13 03:30:00')[0m
+  [1m[36mMachineDailyLog Load (1052.0ms)[0m  [1m[34mSELECT `machine_daily_logs`.* FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 2 AND (created_at >='2018-03-13 03:30:00' AND created_at <'2018-03-13 15:30:00') ORDER BY `machine_daily_logs`.`id` ASC[0m
+  [1m[35m (502.2ms)[0m  [1m[34mSELECT COUNT(*) FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 2 AND (created_at >='2018-03-13 03:30:00' AND created_at <'2018-03-13 15:30:00') AND (`machine_daily_logs`.`parts_count` != -1)[0m
+  [1m[36mMachineDailyLog Load (239.6ms)[0m  [1m[34mSELECT  `machine_daily_logs`.* FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 2 AND (created_at >='2018-03-13 03:30:00' AND created_at <'2018-03-13 15:30:00') AND (`machine_daily_logs`.`parts_count` != -1) ORDER BY `machine_daily_logs`.`id` DESC LIMIT 1[0m
+  [1m[36mMachineDailyLog Load (0.9ms)[0m  [1m[34mSELECT  `machine_daily_logs`.* FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 2 ORDER BY `machine_daily_logs`.`id` DESC LIMIT 1[0m
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `machine_daily_logs`.* FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 2 ORDER BY `machine_daily_logs`.`id` DESC LIMIT 1[0m  [["machine_id", 2], ["LIMIT", 1]]
+  [1m[36mMachineDailyLog Load (201.2ms)[0m  [1m[34mSELECT  `machine_daily_logs`.* FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 2 AND (`machine_daily_logs`.`job_id` != '') AND (`machine_daily_logs`.`programe_number` IS NOT NULL) ORDER BY `machine_daily_logs`.`id` DESC LIMIT 1[0m
+  [1m[36mAlarm Load (0.9ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 2 ORDER BY `alarms`.`id` DESC LIMIT 1[0m
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 2 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 2], ["LIMIT", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 2 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 2], ["LIMIT", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 2 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 2], ["LIMIT", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 2 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 2], ["LIMIT", 1]]
+  [1m[36mDataLossEntry Load (7.2ms)[0m  [1m[34mSELECT `data_loss_entries`.* FROM `data_loss_entries` WHERE `data_loss_entries`.`machine_id` = 2 AND (created_at >'2018-03-13 03:30:00')[0m
+  [1m[36mMachineDailyLog Load (714.1ms)[0m  [1m[34mSELECT `machine_daily_logs`.* FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 3 AND (created_at >='2018-03-13 03:30:00' AND created_at <'2018-03-13 15:30:00') ORDER BY `machine_daily_logs`.`id` ASC[0m
+  [1m[35m (331.1ms)[0m  [1m[34mSELECT COUNT(*) FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 3 AND (created_at >='2018-03-13 03:30:00' AND created_at <'2018-03-13 15:30:00') AND (`machine_daily_logs`.`parts_count` != -1)[0m
+  [1m[36mMachineDailyLog Load (220.3ms)[0m  [1m[34mSELECT  `machine_daily_logs`.* FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 3 AND (created_at >='2018-03-13 03:30:00' AND created_at <'2018-03-13 15:30:00') AND (`machine_daily_logs`.`parts_count` != -1) ORDER BY `machine_daily_logs`.`id` DESC LIMIT 1[0m
+  [1m[36mMachineDailyLog Load (0.9ms)[0m  [1m[34mSELECT  `machine_daily_logs`.* FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 3 ORDER BY `machine_daily_logs`.`id` DESC LIMIT 1[0m
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `machine_daily_logs`.* FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 3 ORDER BY `machine_daily_logs`.`id` DESC LIMIT 1[0m  [["machine_id", 3], ["LIMIT", 1]]
+  [1m[36mMachineDailyLog Load (45.9ms)[0m  [1m[34mSELECT  `machine_daily_logs`.* FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 3 AND (`machine_daily_logs`.`job_id` != '') AND (`machine_daily_logs`.`programe_number` IS NOT NULL) ORDER BY `machine_daily_logs`.`id` DESC LIMIT 1[0m
+  [1m[36mCACHE (0.1ms)[0m  [1m[34mSELECT  `machine_daily_logs`.* FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 3 AND (`machine_daily_logs`.`job_id` != '') AND (`machine_daily_logs`.`programe_number` IS NOT NULL) ORDER BY `machine_daily_logs`.`id` DESC LIMIT 1[0m  [["machine_id", 3], ["job_id", ""], ["LIMIT", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `machine_daily_logs`.* FROM `machine_daily_logs` WHERE `machine_daily_logs`.`machine_id` = 3 AND (`machine_daily_logs`.`job_id` != '') AND (`machine_daily_logs`.`programe_number` IS NOT NULL) ORDER BY `machine_daily_logs`.`id` DESC LIMIT 1[0m  [["machine_id", 3], ["job_id", ""], ["LIMIT", 1]]
+  [1m[36mAlarm Load (1.2ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 3 ORDER BY `alarms`.`id` DESC LIMIT 1[0m
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 3 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 3], ["LIMIT", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 3 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 3], ["LIMIT", 1]]
+  [1m[36mCACHE (0.1ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 3 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 3], ["LIMIT", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 3 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 3], ["LIMIT", 1]]
+  [1m[36mCACHE (0.1ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 3 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 3], ["LIMIT", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 3 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 3], ["LIMIT", 1]]
+  [1m[36mCACHE (0.1ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 3 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 3], ["LIMIT", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  `alarms`.* FROM `alarms` WHERE `alarms`.`deleted_at` IS NULL AND `alarms`.`machine_id` = 3 ORDER BY `alarms`.`id` DESC LIMIT 1[0m  [["machine_id", 3], ["LIMIT", 1]]
+  [1m[36mDataLossEntry Load (39.3ms)[0m  [1m[34mSELECT `data_loss_entries`.* FROM `data_loss_entries` WHERE `data_loss_entries`.`machine_id` = 3 AND (created_at >'2018-03-13 03:30:00')[0m
+No serializer found for resource: {:cycle_time=>0, :idle_time=>"00:00:00", :shift_no=>1, :last_update=>Sat, 10 Mar 2018 19:38:49 IST +05:30, :machine_id=>1, :machine_name=>"GTA/VMC-1260", :job_name=>"O275-(SUP BRACKET RH 1ST OPP)", :parts_count=>0, :downtime=>"00:00:00", :machine_status=>nil, :utilization=>0, :spindle_speed=>nil, :spindle_load=>nil, :feed_rate=>nil, :cutting_time=>nil, :total_load_unload_time=>"00:00:00", :controller_part=>0, :alarm=>#<Alarm id: 1087, alarm_type: 4, alarm_number: 501, alarm_message: "(X)- OVERTRAVEL ( SOFT 1 )", emergency: 0, machine_id: 1, created_at: "2018-03-06 15:23:18", updated_at: "2018-03-06 15:23:18", deleted_at: nil>, :alarm_time=>"08:53 PM", :alarm_date=>"06", :alarm_month=>"March", :alarm_year=>"2018", :report_from=>nil, :job_wise_part=>nil, :entry_alert=>false, :start_time=>2018-03-13 09:00:00 +0530}
+[active_model_serializers] Rendered ActiveModel::Serializer::CollectionSerializer with Array (25.63ms)
+Completed 200 OK in 7458ms (Views: 34.2ms | ActiveRecord: 5037.7ms)
+
+
+^CExiting
+]0;yantra@yantra: ~/yantra/yantra_awsyantra@yantra:~/yantra/yantra_aws$ rails s -b 192.168.1.48 -p 30071[3Ptail -f log/development.log exit[Ktail -f log/development.log 
+  [1m[36mShift Load (0.9ms)[0m  [1m[34mSELECT  `shifts`.* FROM `shifts` WHERE `shifts`.`deleted_at` IS NULL AND `shifts`.`id` = 6 LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mReport Load (2.3ms)[0m  [1m[34mSELECT `reports`.* FROM `reports` WHERE `reports`.`date` = '2018-03-13' AND `reports`.`shift_no` = 1 AND `reports`.`machine_id` = 11 AND `reports`.`tenant_id` = 7[0m
+  [1m[36mReport Load (2.1ms)[0m  [1m[34mSELECT  `reports`.* FROM `reports` WHERE `reports`.`date` = '2018-03-13' AND `reports`.`shift_no` = 1 AND `reports`.`machine_id` = 11 AND `reports`.`tenant_id` = 7 LIMIT 1[0m
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mMachine Load (0.9ms)[0m  [1m[34mSELECT  `machines`.* FROM `machines` WHERE `machines`.`deleted_at` IS NULL AND `machines`.`id` = 11 LIMIT 1[0m
+  [1m[36mTenant Load (0.9ms)[0m  [1m[34mSELECT  `tenants`.* FROM `tenants` WHERE `tenants`.`deleted_at` IS NULL AND `tenants`.`id` = 7 LIMIT 1[0m
+  [1m[36mShift Load (1.2ms)[0m  [1m[34mSELECT  `shifts`.* FROM `shifts` WHERE `shifts`.`deleted_at` IS NULL AND `shifts`.`id` = 7 LIMIT 1[0m
+  [1m[35mSQL (1.5ms)[0m  [1m[33mUPDATE `reports` SET `idle_time` = '06:50:07', `total_downtime` = '06:50:07', `updated_at` = '2018-03-13 09:50:17' WHERE `reports`.`id` = 708[0m
+  [1m[35m (5.1ms)[0m  [1m[35mCOMMIT[0m
+
+
+
+
+
+
+
+
+
+^C
+]0;yantra@yantra: ~/yantra/yantra_awsyantra@yantra:~/yantra/yantra_aws$ tail -f log/development.log rails s -b 192.168.1.48 -p 30071[3Ptail -f log/development.log exit[Krails s -b 192.168.1.48 -p 3001[15Pcd Test_Emerald/..[Krails s -b 192.168.1.48 -p 3007[18Pcd yantra_awsrails s -b 192.168.1.48 -p 3007cd ..[KTest_Emerald/rails s -b 192.168.1.48 -p 3001exit[Ktail -f log/development.log rails s -b 192.168.1.48 -p 30017[3Ptail -f log/development.log [Ktail -f log/development.log 
+  [1m[36mShift Load (0.9ms)[0m  [1m[34mSELECT  `shifts`.* FROM `shifts` WHERE `shifts`.`deleted_at` IS NULL AND `shifts`.`id` = 6 LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mReport Load (2.3ms)[0m  [1m[34mSELECT `reports`.* FROM `reports` WHERE `reports`.`date` = '2018-03-13' AND `reports`.`shift_no` = 1 AND `reports`.`machine_id` = 11 AND `reports`.`tenant_id` = 7[0m
+  [1m[36mReport Load (2.1ms)[0m  [1m[34mSELECT  `reports`.* FROM `reports` WHERE `reports`.`date` = '2018-03-13' AND `reports`.`shift_no` = 1 AND `reports`.`machine_id` = 11 AND `reports`.`tenant_id` = 7 LIMIT 1[0m
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mMachine Load (0.9ms)[0m  [1m[34mSELECT  `machines`.* FROM `machines` WHERE `machines`.`deleted_at` IS NULL AND `machines`.`id` = 11 LIMIT 1[0m
+  [1m[36mTenant Load (0.9ms)[0m  [1m[34mSELECT  `tenants`.* FROM `tenants` WHERE `tenants`.`deleted_at` IS NULL AND `tenants`.`id` = 7 LIMIT 1[0m
+  [1m[36mShift Load (1.2ms)[0m  [1m[34mSELECT  `shifts`.* FROM `shifts` WHERE `shifts`.`deleted_at` IS NULL AND `shifts`.`id` = 7 LIMIT 1[0m
+  [1m[35mSQL (1.5ms)[0m  [1m[33mUPDATE `reports` SET `idle_time` = '06:50:07', `total_downtime` = '06:50:07', `updated_at` = '2018-03-13 09:50:17' WHERE `reports`.`id` = 708[0m
+  [1m[35m (5.1ms)[0m  [1m[35mCOMMIT[0m
+^[[A^[[A^[[A^[[A^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^C
+]0;yantra@yantra: ~/yantra/yantra_awsyantra@yantra:~/yantra/yantra_aws$ tail -f log/development.log rails s -b 192.168.1.48 -p 30071[3Ptail -f log/development.log exit[Ktail -f log/development.log exit[Krails s -b 192.168.1.48 -p 3001[15Pcd Test_Emerald/rails s -b 192.168.1.48 -p 3001exit[Ktail -f log/development.log rails s -b 192.168.1.48 -p 30017[3Ptail -f log/development.log [Kcd ../Test_Emerald/
+]0;yantra@yantra: ~/yantra/Test_Emeraldyantra@yantra:~/yantra/Test_Emerald$ rails c
+^C^C^Z
+[1]+  Stopped                 rails c
+]0;yantra@yantra: ~/yantra/Test_Emeraldyantra@yantra:~/yantra/Test_Emerald$ rails c
+^[[A^Z
+[2]+  Stopped                 rails c
+]0;yantra@yantra: ~/yantra/Test_Emeraldyantra@yantra:~/yantra/Test_Emerald$ zrails c
+^C/home/yantra/.rvm/gems/ruby-2.4.2/gems/spring-2.0.2/lib/spring/client/run.rb:117:in `gets': Interrupt
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/spring-2.0.2/lib/spring/client/run.rb:117:in `verify_server_version'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/spring-2.0.2/lib/spring/client/run.rb:62:in `run'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/spring-2.0.2/lib/spring/client/run.rb:42:in `warm_run'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/spring-2.0.2/lib/spring/client/run.rb:35:in `call'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/spring-2.0.2/lib/spring/client/command.rb:7:in `call'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/spring-2.0.2/lib/spring/client/rails.rb:24:in `call'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/spring-2.0.2/lib/spring/client/command.rb:7:in `call'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/spring-2.0.2/lib/spring/client.rb:30:in `run'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/spring-2.0.2/bin/spring:49:in `<top (required)>'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/spring-2.0.2/lib/spring/binstub.rb:31:in `load'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/spring-2.0.2/lib/spring/binstub.rb:31:in `<top (required)>'
+	from /home/yantra/yantra/Test_Emerald/bin/spring:15:in `require'
+	from /home/yantra/yantra/Test_Emerald/bin/spring:15:in `<top (required)>'
+	from bin/rails:3:in `load'
+	from bin/rails:3:in `<main>'
+
+]0;yantra@yantra: ~/yantra/Test_Emeraldyantra@yantra:~/yantra/Test_Emerald$ sprinf[Kg stop
+Spring stopped.
+]0;yantra@yantra: ~/yantra/Test_Emeraldyantra@yantra:~/yantra/Test_Emerald$ spring stop[4Prails c
+Running via Spring preloader in process 26479
+Loading development environment (Rails 5.1.4)
+2.4.2 :001 > exitNetlogStatus.last[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K[KRole.last
+  [1m[35m (0.9ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mRole Load (0.8ms)[0m  [1m[34mSELECT  `roles`.* FROM `roles` ORDER BY `roles`.`id` DESC LIMIT 1[0m
+ => #<Role id: 2, name: "HR", description: nil, active: nil, created_at: "2018-03-13 09:59:02", updated_at: "2018-03-13 09:59:02"> 
+2.4.2 :002 > Role.last[5PexitNetlogStatus.last[1Pall[C[C[C[C[C[C[C[C[C[C[C[C[C[9Preload!
+Reloading...
+ => true 
+2.4.2 :003 > reload!Role.last[5PexitNetlogStatus.last[1Pall[C[C[C[C[C[C[C[C[C[C[C[C[C[9Preload!NetlogStatus.all
+  [1m[36mNetlogStatus Load (0.6ms)[0m  [1m[34mSELECT  `netlog_statuses`.* FROM `netlog_statuses` LIMIT 11[0m
+ => #<ActiveRecord::Relation [#<NetlogStatus id: 1, date: "2018-03-09 07:25:50", status: 2, machine_id: 1, created_at: "2018-03-09 07:25:50", updated_at: "2018-03-09 07:25:50">, #<NetlogStatus id: 2, date: "2018-03-09 07:26:27", status: 2, machine_id: 1, created_at: "2018-03-09 07:26:28", updated_at: "2018-03-09 07:26:28">, #<NetlogStatus id: 3, date: "2018-03-09 07:27:57", status: 1, machine_id: 1, created_at: "2018-03-09 07:27:58", updated_at: "2018-03-09 07:27:58">, #<NetlogStatus id: 4, date: "2018-03-12 05:34:35", status: 2, machine_id: 1, created_at: "2018-03-12 05:34:35", updated_at: "2018-03-12 05:34:35">]> 
+2.4.2 :004 > NetlogStatus.all[K[K[Klast
+  [1m[36mNetlogStatus Load (0.6ms)[0m  [1m[34mSELECT  `netlog_statuses`.* FROM `netlog_statuses` ORDER BY `netlog_statuses`.`id` DESC LIMIT 1[0m
+ => #<NetlogStatus id: 4, date: "2018-03-12 05:34:35", status: 2, machine_id: 1, created_at: "2018-03-12 05:34:35", updated_at: "2018-03-12 05:34:35"> 
+2.4.2 :005 > NetlogStatus.last[1Pall[C[C[C[C[C[C[C[C[C[C[C[C[C[9Preload!
+Reloading...
+ => true 
+2.4.2 :006 > reload!NetlogStatus.last
+  [1m[36mNetlogStatus Load (0.5ms)[0m  [1m[34mSELECT  `netlog_statuses`.* FROM `netlog_statuses` ORDER BY `netlog_statuses`.`id` DESC LIMIT 1[0m
+ => #<NetlogStatus id: 4, date: "2018-03-12 05:34:35", status: 2, machine_id: 1, created_at: "2018-03-12 05:34:35", updated_at: "2018-03-12 05:34:35"> 
+2.4.2 :007 > NetlogStatus.last[C[C[C[C[C[C[C[C[C[C[C[C[C[10Preload!NetlogStatus.last[C[C[C[C[C[C[C[C[C[C[C[C[C[KMQTT::Client.connect(:host => '182.72.104.66', :port => 1883,:username => 'yantra-mqtt',:password => 'yantra-mqtt@123') do |c|
+2.4.2 :008 >                c.get('EmeraldLog') do |topic,message|
+2.4.2 :009 >                   puts "#{topic}: #{message}"
+2.4.2 :010?>                       status = message.split(',')
+2.4.2 :011?>                       date=status[2].to_time
+2.4.2 :012?>                       log_status =status[1]
+2.4.2 :013?>                     if  machine = Machine.find_by_machine_ip(status[0])
+2.4.2 :014?>                         NetlogStatus.create!( date: date, status: log_status, machine_id: machine.id)
+2.4.2 :015?>                       else
+2.4.2 :016 >                          puts "Not register machine_ip #{status[0]}"
+2.4.2 :017?>                       end
+2.4.2 :018?>                end
+2.4.2 :019?>           end
+
+
+
+
+^CIRB::Abort: abort then interrupt!
+	from (irb):8:in `block in irb_binding'
+	from (irb):7
+2.4.2 :020 >         end   end[3Pend[Kexit
+]0;yantra@yantra: ~/yantra/Test_Emeraldyantra@yantra:~/yantra/Test_Emerald$ rails cspring stop[4Prails ccd ../Test_Emerald/tail -f log/development.log rails s -b 192.168.1.48 -p 300717[3Ptail -f log/development.log [9Pcd ../Test_Emerald/[12Prails cspring stop[4Prails c[Kcd ../yantra_aws
+]0;yantra@yantra: ~/yantra/yantra_awsyantra@yantra:~/yantra/yantra_aws$ cd ../yantra_aws[9Prails cspring stop[4Prails ccd ../Test_Emerald/[12Prails cspring stop[4Prails cspring stop[4Prails ccd ../Test_Emerald/
+]0;yantra@yantra: ~/yantra/Test_Emeraldyantra@yantra:~/yantra/Test_Emerald$ cd ../Test_Emerald/[3Pyantra_aws[9Prails cspring stop[4Prails ccd ../Test_Emerald/tail -f log/development.log rails s -b 192.168.1.48 -p 30071
+=> Booting Puma
+=> Rails 5.1.4 application starting in development 
+=> Run `rails server -h` for more startup options
+A server is already running. Check /home/yantra/yantra/Test_Emerald/tmp/pids/server.pid.
+Exiting
+]0;yantra@yantra: ~/yantra/Test_Emeraldyantra@yantra:~/yantra/Test_Emerald$ rails s -b 192.168.1.48 -p 3001[Krails cs -b 192.168.1.48 -p 3001c[K
+
+
+
+
+^C^Z
+[3]+  Stopped                 rails c
+]0;yantra@yantra: ~/yantra/Test_Emeraldyantra@yantra:~/yantra/Test_Emerald$ rails cs -b 192.168.1.48 -p 3001[12Pcd ../Test_Emerald/[3Pyantra_aws[9Prails cspring stop[4Prails cspring stop
+Spring stopped.
+]0;yantra@yantra: ~/yantra/Test_Emeraldyantra@yantra:~/yantra/Test_Emerald$ spring stop[4Prails c
+Running via Spring preloader in process 26623
+Loading development environment (Rails 5.1.4)
+2.4.2 :001 > exit        end   end     end puts "Not register machine_ip #{status[0]}"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cend[K[5Pend[3Pend[7Pexit[KRole.all
+  [1m[35m (0.7ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mRole Load (3.0ms)[0m  [1m[34mSELECT  `roles`.* FROM `roles` LIMIT 11[0m
+ => #<ActiveRecord::Relation [#<Role id: 1, name: "CEO", description: nil, active: true, created_at: "2018-03-08 09:43:42", updated_at: "2018-03-08 09:43:42">, #<Role id: 2, name: "HR", description: nil, active: nil, created_at: "2018-03-13 09:59:02", updated_at: "2018-03-13 09:59:02">, #<Role id: 3, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:08:14", updated_at: "2018-03-13 10:08:14">, #<Role id: 4, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:08:14", updated_at: "2018-03-13 10:08:14">, #<Role id: 5, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:08:14", updated_at: "2018-03-13 10:08:14">, #<Role id: 6, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:08:14", updated_at: "2018-03-13 10:08:14">, #<Role id: 7, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:08:14", updated_at: "2018-03-13 10:08:14">, #<Role id: 8, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:08:14", updated_at: "2018-03-13 10:08:14">, #<Role id: 9, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:08:14", updated_at: "2018-03-13 10:08:14">, #<Role id: 10, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:08:14", updated_at: "2018-03-13 10:08:14">, ...]> 
+2.4.2 :002 > Role.all[K[K[K[K[K[K[K[Kexit        end   end[3Pend[7Pexit[KRole.last
+  [1m[36mRole Load (1.0ms)[0m  [1m[34mSELECT  `roles`.* FROM `roles` ORDER BY `roles`.`id` DESC LIMIT 1[0m
+ => #<Role id: 12, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:08:14", updated_at: "2018-03-13 10:08:14"> 
+2.4.2 :003 > Role.last
+  [1m[36mRole Load (0.8ms)[0m  [1m[34mSELECT  `roles`.* FROM `roles` ORDER BY `roles`.`id` DESC LIMIT 1[0m
+ => #<Role id: 12, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:08:14", updated_at: "2018-03-13 10:08:14"> 
+2.4.2 :004 > Role.last
+  [1m[36mRole Load (1.0ms)[0m  [1m[34mSELECT  `roles`.* FROM `roles` ORDER BY `roles`.`id` DESC LIMIT 1[0m
+ => #<Role id: 12, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:08:14", updated_at: "2018-03-13 10:08:14"> 
+2.4.2 :005 > Role.last[Kreload!
+Reloading...
+ => true 
+2.4.2 :006 > reload!Role.last
+  [1m[36mRole Load (0.3ms)[0m  [1m[34mSELECT  `roles`.* FROM `roles` ORDER BY `roles`.`id` DESC LIMIT 1[0m
+ => #<Role id: 12, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:08:14", updated_at: "2018-03-13 10:08:14"> 
+2.4.2 :007 > Role.last
+  [1m[36mRole Load (0.5ms)[0m  [1m[34mSELECT  `roles`.* FROM `roles` ORDER BY `roles`.`id` DESC LIMIT 1[0m
+ => #<Role id: 12, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:08:14", updated_at: "2018-03-13 10:08:14"> 
+2.4.2 :008 > Role.last[2Preload!Role.last[2Preload!
+Reloading...
+ => true 
+2.4.2 :009 > reload!Role.last
+  [1m[36mRole Load (0.7ms)[0m  [1m[34mSELECT  `roles`.* FROM `roles` ORDER BY `roles`.`id` DESC LIMIT 1[0m
+ => #<Role id: 22, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:10:44", updated_at: "2018-03-13 10:10:44"> 
+2.4.2 :010 > Role.last
+  [1m[36mRole Load (0.7ms)[0m  [1m[34mSELECT  `roles`.* FROM `roles` ORDER BY `roles`.`id` DESC LIMIT 1[0m
+ => #<Role id: 22, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:10:44", updated_at: "2018-03-13 10:10:44"> 
+2.4.2 :011 > Role.last
+  [1m[36mRole Load (0.7ms)[0m  [1m[34mSELECT  `roles`.* FROM `roles` ORDER BY `roles`.`id` DESC LIMIT 1[0m
+ => #<Role id: 22, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:10:44", updated_at: "2018-03-13 10:10:44"> 
+2.4.2 :012 > Role.last[2Preload!
+Reloading...
+ => true 
+2.4.2 :013 > reload!Role.last
+  [1m[36mRole Load (0.6ms)[0m  [1m[34mSELECT  `roles`.* FROM `roles` ORDER BY `roles`.`id` DESC LIMIT 1[0m
+ => #<Role id: 22, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:10:44", updated_at: "2018-03-13 10:10:44"> 
+2.4.2 :014 > Role.last
+  [1m[36mRole Load (0.7ms)[0m  [1m[34mSELECT  `roles`.* FROM `roles` ORDER BY `roles`.`id` DESC LIMIT 1[0m
+ => #<Role id: 22, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:10:44", updated_at: "2018-03-13 10:10:44"> 
+2.4.2 :015 > Role.last[2Preload!
+Reloading...
+ => true 
+2.4.2 :016 > reload!Role.last
+  [1m[36mRole Load (0.6ms)[0m  [1m[34mSELECT  `roles`.* FROM `roles` ORDER BY `roles`.`id` DESC LIMIT 1[0m
+ => #<Role id: 22, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:10:44", updated_at: "2018-03-13 10:10:44"> 
+2.4.2 :017 > Role.last
+  [1m[36mRole Load (0.9ms)[0m  [1m[34mSELECT  `roles`.* FROM `roles` ORDER BY `roles`.`id` DESC LIMIT 1[0m
+ => #<Role id: 22, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:10:44", updated_at: "2018-03-13 10:10:44"> 
+2.4.2 :018 > Role.last[2Preload!
+Reloading...
+ => true 
+2.4.2 :019 > reload!Role.last
+  [1m[36mRole Load (0.4ms)[0m  [1m[34mSELECT  `roles`.* FROM `roles` ORDER BY `roles`.`id` DESC LIMIT 1[0m
+ => #<Role id: 22, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:10:44", updated_at: "2018-03-13 10:10:44"> 
+2.4.2 :020 > Role.last[2Preload!Role.last[2Preload!
+Reloading...
+ => true 
+2.4.2 :021 > reload!Role.last
+  [1m[36mRole Load (45.4ms)[0m  [1m[34mSELECT  `roles`.* FROM `roles` ORDER BY `roles`.`id` DESC LIMIT 1[0m
+ => #<Role id: 32, name: nil, description: nil, active: nil, created_at: "2018-03-13 10:11:33", updated_at: "2018-03-13 10:11:33"> 
+2.4.2 :022 > 
+2.4.2 :023 >   Role.last[2Preload!Role.last[2Preload!Role.last[2Preload!Role.last[2Preload!
+Reloading...
+ => true 
+2.4.2 :024 > reload!Role.last[2Preload![Kreport.last[1Peport.lastReport.last
+  [1m[36mReport Load (0.6ms)[0m  [1m[34mSELECT  `reports`.* FROM `reports` ORDER BY `reports`.`id` DESC LIMIT 1[0m
+ => #<Report id: 2, date: "2018-03-13", shift_no: "1", time: "08:00 AM - 08:00 PM", shift_id: 1, operator_id: nil, machine_id: 2, run_time: "02:03:14", idle_time: "02:03:13", stop_time: "02:03:18", total_time: "06:09:45", actual_shifttime: "12:0", utilization: "17", created_at: "2018-03-13 07:19:26", updated_at: "2018-03-13 08:39:46"> 
+2.4.2 :025 > Report.last[4Preload!Report.last[Klast_shift_report(machine_id,shift_id)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)2),)1)[C[C[C[C[C[C[C[C[C[C[C[C[CRlast_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[C[Celast_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cplast_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Colast_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crlast_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctlast_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+  [1m[36mReport Load (1.1ms)[0m  [1m[34mSELECT  `reports`.* FROM `reports` WHERE `reports`.`machine_id` = 2 ORDER BY `reports`.`id` DESC LIMIT 1[0m
+  [1m[36mMachine Load (0.7ms)[0m  [1m[34mSELECT  `machines`.* FROM `machines` WHERE `machines`.`id` = 2 LIMIT 1[0m
+
+[103, 112] in /home/yantra/yantra/Test_Emerald/app/models/report.rb
+   103:     start_time1 =time[0]
+   104:     end_time1 =time[1]
+   105:     date=report_data.date
+   106:     machine = Machine.find_by_id(machine_id)
+   107:     byebug
+=> 108:     shift=Shift.where(id:report_data.shift_id,start_time: time[0].gsub(" ",""), end_time: time[1].gsub(" ","")).first
+   109:        
+   110:     start_time = (date.strftime("%Y-%m-%d")+" "+start_time1).to_time
+   111:     end_time = (date.strftime("%Y-%m-%d")+" "+end_time1).to_time        
+   112:    
+(byebug) machine
+#<Machine id: 2, machine_name: "Test-02", machine_model: "2", machine_serial_no: "2", machine_type: "2", machine_ip: "192.168.1.19", active: true, created_at: "2018-03-12 05:38:04", updated_at: "2018-03-12 06:54:28">
+(byebug) c
+  [1m[36mShift Load (0.4ms)[0m  [1m[34mSELECT  `shifts`.* FROM `shifts` WHERE `shifts`.`id` = 1 AND `shifts`.`start_time` = '08:00AM' AND `shifts`.`end_time` = '08:00PM' ORDER BY `shifts`.`id` ASC LIMIT 1[0m
+  [1m[36mMachineLog Load (74.5ms)[0m  [1m[34mSELECT `machine_logs`.* FROM `machine_logs` WHERE `machine_logs`.`machine_id` = 2 AND (`machine_logs`.`from_date` BETWEEN '2018-03-13 02:30:00' AND '2018-03-13 14:30:00') AND `machine_logs`.`status` = 0 ORDER BY `machine_logs`.`id` ASC[0m
+  [1m[36mMachineLog Load (88.9ms)[0m  [1m[34mSELECT `machine_logs`.* FROM `machine_logs` WHERE `machine_logs`.`machine_id` = 2 AND (`machine_logs`.`from_date` BETWEEN '2018-03-13 02:30:00' AND '2018-03-13 14:30:00') AND `machine_logs`.`status` = 1 ORDER BY `machine_logs`.`id` ASC[0m
+  [1m[36mMachineLog Load (87.1ms)[0m  [1m[34mSELECT `machine_logs`.* FROM `machine_logs` WHERE `machine_logs`.`machine_id` = 2 AND (`machine_logs`.`from_date` BETWEEN '2018-03-13 02:30:00' AND '2018-03-13 14:30:00') AND `machine_logs`.`status` = 3 ORDER BY `machine_logs`.`id` ASC[0m
+NoMethodError: undefined method `duration' for nil:NilClass
+	from app/models/report.rb:137:in `last_shift_report'
+	from (irb):25
+2.4.2 :026 > Report.last_shift_report(2,1)[K[4Preload!
+Reloading...
+ => true 
+2.4.2 :027 > reload!Report.last_shift_report(2,1)
+  [1m[36mReport Load (0.4ms)[0m  [1m[34mSELECT  `reports`.* FROM `reports` WHERE `reports`.`machine_id` = 2 ORDER BY `reports`.`id` DESC LIMIT 1[0m
+  [1m[36mMachine Load (0.4ms)[0m  [1m[34mSELECT  `machines`.* FROM `machines` WHERE `machines`.`id` = 2 LIMIT 1[0m
+
+[103, 112] in /home/yantra/yantra/Test_Emerald/app/models/report.rb
+   103:     start_time1 =time[0]
+   104:     end_time1 =time[1]
+   105:     date=report_data.date
+   106:     machine = Machine.find_by_id(machine_id)
+   107:     byebug
+=> 108:     shift=Shift.where(id:report_data.shift_id,start_time: time[0].gsub(" ",""), end_time: time[1].gsub(" ","")).first
+   109:        
+   110:     start_time = (date.strftime("%Y-%m-%d")+" "+start_time1).to_time
+   111:     end_time = (date.strftime("%Y-%m-%d")+" "+end_time1).to_time        
+   112:    
+(byebug) c[Kc
+  [1m[36mShift Load (0.6ms)[0m  [1m[34mSELECT  `shifts`.* FROM `shifts` WHERE `shifts`.`id` = 1 AND `shifts`.`start_time` = '08:00AM' AND `shifts`.`end_time` = '08:00PM' ORDER BY `shifts`.`id` ASC LIMIT 1[0m
+  [1m[36mMachineLog Load (136.0ms)[0m  [1m[34mSELECT `machine_logs`.* FROM `machine_logs` WHERE `machine_logs`.`machine_id` = 2 AND (`machine_logs`.`from_date` BETWEEN '2018-03-13 02:30:00' AND '2018-03-13 14:30:00') AND `machine_logs`.`status` = 0 ORDER BY `machine_logs`.`id` ASC[0m
+  [1m[36mMachineLog Load (135.7ms)[0m  [1m[34mSELECT `machine_logs`.* FROM `machine_logs` WHERE `machine_logs`.`machine_id` = 2 AND (`machine_logs`.`from_date` BETWEEN '2018-03-13 02:30:00' AND '2018-03-13 14:30:00') AND `machine_logs`.`status` = 1 ORDER BY `machine_logs`.`id` ASC[0m
+  [1m[36mMachineLog Load (135.6ms)[0m  [1m[34mSELECT `machine_logs`.* FROM `machine_logs` WHERE `machine_logs`.`machine_id` = 2 AND (`machine_logs`.`from_date` BETWEEN '2018-03-13 02:30:00' AND '2018-03-13 14:30:00') AND `machine_logs`.`status` = 3 ORDER BY `machine_logs`.`id` ASC[0m
+NoMethodError: undefined method `duration' for nil:NilClass
+	from app/models/report.rb:137:in `last_shift_report'
+	from (irb):27
+2.4.2 :028 > Report.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![K
+Reloading...
+ => true 
+2.4.2 :029 > reload!Report.last_shift_report(2,1)
+  [1m[36mReport Load (0.7ms)[0m  [1m[34mSELECT  `reports`.* FROM `reports` WHERE `reports`.`machine_id` = 2 ORDER BY `reports`.`id` DESC LIMIT 1[0m
+  [1m[36mMachine Load (0.6ms)[0m  [1m[34mSELECT  `machines`.* FROM `machines` WHERE `machines`.`id` = 2 LIMIT 1[0m
+
+[103, 112] in /home/yantra/yantra/Test_Emerald/app/models/report.rb
+   103:     start_time1 =time[0]
+   104:     end_time1 =time[1]
+   105:     date=report_data.date
+   106:     machine = Machine.find_by_id(machine_id)
+   107:     byebug
+=> 108:     shift=Shift.where(id:report_data.shift_id,start_time: time[0].gsub(" ",""), end_time: time[1].gsub(" ","")).first
+   109:        
+   110:     start_time = (date.strftime("%Y-%m-%d")+" "+start_time1).to_time
+   111:     end_time = (date.strftime("%Y-%m-%d")+" "+end_time1).to_time        
+   112:    
+(byebug) c
+  [1m[36mShift Load (0.6ms)[0m  [1m[34mSELECT  `shifts`.* FROM `shifts` WHERE `shifts`.`id` = 1 AND `shifts`.`start_time` = '08:00AM' AND `shifts`.`end_time` = '08:00PM' ORDER BY `shifts`.`id` ASC LIMIT 1[0m
+  [1m[36mMachineLog Load (147.5ms)[0m  [1m[34mSELECT `machine_logs`.* FROM `machine_logs` WHERE `machine_logs`.`machine_id` = 2 AND (`machine_logs`.`from_date` BETWEEN '2018-03-13 02:30:00' AND '2018-03-13 14:30:00') AND `machine_logs`.`status` = 0 ORDER BY `machine_logs`.`id` ASC[0m
+  [1m[36mMachineLog Load (94.9ms)[0m  [1m[34mSELECT `machine_logs`.* FROM `machine_logs` WHERE `machine_logs`.`machine_id` = 2 AND (`machine_logs`.`from_date` BETWEEN '2018-03-13 02:30:00' AND '2018-03-13 14:30:00') AND `machine_logs`.`status` = 1 ORDER BY `machine_logs`.`id` ASC[0m
+  [1m[36mMachineLog Load (76.6ms)[0m  [1m[34mSELECT `machine_logs`.* FROM `machine_logs` WHERE `machine_logs`.`machine_id` = 2 AND (`machine_logs`.`from_date` BETWEEN '2018-03-13 02:30:00' AND '2018-03-13 14:30:00') AND `machine_logs`.`status` = 3 ORDER BY `machine_logs`.`id` ASC[0m
+NoMethodError: undefined method `duration' for nil:NilClass
+	from app/models/report.rb:137:in `last_shift_report'
+	from (irb):29
+2.4.2 :030 > Report.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![K
+Reloading...
+ => true 
+2.4.2 :031 > reload!Report.last_shift_report(2,1)
+  [1m[36mReport Load (0.3ms)[0m  [1m[34mSELECT  `reports`.* FROM `reports` WHERE `reports`.`machine_id` = 2 ORDER BY `reports`.`id` DESC LIMIT 1[0m
+  [1m[36mMachine Load (0.4ms)[0m  [1m[34mSELECT  `machines`.* FROM `machines` WHERE `machines`.`id` = 2 LIMIT 1[0m
+
+[103, 112] in /home/yantra/yantra/Test_Emerald/app/models/report.rb
+   103:     start_time1 =time[0]
+   104:     end_time1 =time[1]
+   105:     date=report_data.date
+   106:     machine = Machine.find_by_id(machine_id)
+   107:     byebug
+=> 108:     shift=Shift.where(id:report_data.shift_id,start_time: time[0].gsub(" ",""), end_time: time[1].gsub(" ","")).first
+   109:        
+   110:     start_time = (date.strftime("%Y-%m-%d")+" "+start_time1).to_time
+   111:     end_time = (date.strftime("%Y-%m-%d")+" "+end_time1).to_time        
+   112:    
+(byebug) c
+  [1m[36mShift Load (0.4ms)[0m  [1m[34mSELECT  `shifts`.* FROM `shifts` WHERE `shifts`.`id` = 1 AND `shifts`.`start_time` = '08:00AM' AND `shifts`.`end_time` = '08:00PM' ORDER BY `shifts`.`id` ASC LIMIT 1[0m
+  [1m[36mMachineLog Load (75.8ms)[0m  [1m[34mSELECT `machine_logs`.* FROM `machine_logs` WHERE `machine_logs`.`machine_id` = 2 AND (`machine_logs`.`from_date` BETWEEN '2018-03-13 02:30:00' AND '2018-03-13 14:30:00') AND `machine_logs`.`status` = 0 ORDER BY `machine_logs`.`id` ASC[0m
+  [1m[36mMachineLog Load (74.8ms)[0m  [1m[34mSELECT `machine_logs`.* FROM `machine_logs` WHERE `machine_logs`.`machine_id` = 2 AND (`machine_logs`.`from_date` BETWEEN '2018-03-13 02:30:00' AND '2018-03-13 14:30:00') AND `machine_logs`.`status` = 1 ORDER BY `machine_logs`.`id` ASC[0m
+  [1m[36mMachineLog Load (79.0ms)[0m  [1m[34mSELECT `machine_logs`.* FROM `machine_logs` WHERE `machine_logs`.`machine_id` = 2 AND (`machine_logs`.`from_date` BETWEEN '2018-03-13 02:30:00' AND '2018-03-13 14:30:00') AND `machine_logs`.`status` = 3 ORDER BY `machine_logs`.`id` ASC[0m
+
+[133, 142] in /home/yantra/yantra/Test_Emerald/app/models/report.rb
+   133:            end
+   134:            current_run_time=@r.sum
+   135: 
+   136:          #-----------------------------------------
+   137:          byebug
+=> 138:            shift_time_available = Time.parse(shift.duration).seconds_since_midnight #shift available time calculation
+   139:            total_shift_time_available = ((shift_time_available/60).round())*60
+   140:            utilization =(current_run_time*100)/total_shift_time_available # utilization calculation
+   141:           utilization = utilization.nil? ? 0 : utilization
+   142:           operator_id = shift.operator_allocations.where(machine_id:machine.id).last.nil? ?  nil : shift.operator_allocations.where(machine_id:machine.id).last.operator_mappings.where(:date=>date.to_date).last.present? ? shift.operator_allocations.where(machine_id:machine.id).last.operator_mappings.where(:date=>date.to_date).last.operator.id : nil  
+(byebug) shift
+nil
+(byebug) c
+NoMethodError: undefined method `duration' for nil:NilClass
+	from app/models/report.rb:138:in `last_shift_report'
+	from (irb):31
+2.4.2 :032 > Report.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![K
+Reloading...
+ => true 
+2.4.2 :033 > reload!Report.last_shift_report(2,1)
+  [1m[36mReport Load (0.5ms)[0m  [1m[34mSELECT  `reports`.* FROM `reports` WHERE `reports`.`machine_id` = 2 ORDER BY `reports`.`id` DESC LIMIT 1[0m
+  [1m[36mMachine Load (0.4ms)[0m  [1m[34mSELECT  `machines`.* FROM `machines` WHERE `machines`.`id` = 2 LIMIT 1[0m
+
+[103, 112] in /home/yantra/yantra/Test_Emerald/app/models/report.rb
+   103:     start_time1 =time[0]
+   104:     end_time1 =time[1]
+   105:     date=report_data.date
+   106:     machine = Machine.find_by_id(machine_id)
+   107:     byebug
+=> 108:     shift=Shift.where(id:report_data.shift_id,start_time: time[0].gsub(" ",""), end_time: time[1].gsub(" ","")).first
+   109:        
+   110:     start_time = (date.strftime("%Y-%m-%d")+" "+start_time1).to_time
+   111:     end_time = (date.strftime("%Y-%m-%d")+" "+end_time1).to_time        
+   112:    
+(byebug) shift=Shift.where(id:report_data.shift_id,start_time: time[0].gsub(" ",""), end_time: time[1].gsub(" ","")).first
+  [1m[36mShift Load (0.4ms)[0m  [1m[34mSELECT  `shifts`.* FROM `shifts` WHERE `shifts`.`id` = 1 AND `shifts`.`start_time` = '08:00AM' AND `shifts`.`end_time` = '08:00PM' ORDER BY `shifts`.`id` ASC LIMIT 1[0m
+nil
+(byebug) shift=Shift.where(id:report_data.shift_id,start_time: time[0].gsub(" ",""), end_time: time[1].gsub(" ","")).first[C[C[C[1P[1P[1P[1P[1P[1@f[1@i[1@n[1@d[1@_[1@b[1@y[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K
+  [1m[36mShift Load (0.5ms)[0m  [1m[34mSELECT  `shifts`.* FROM `shifts` WHERE `shifts`.`id` = 1 AND `shifts`.`start_time` = '08:00AM' AND `shifts`.`end_time` = '08:00PM' LIMIT 1[0m
+nil
+(byebug) shift=Shift.find_by(id:report_data.shift_id,start_time: time[0].gsub(" ",""), end_time: time[1].gsub(" ",""))[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K)
+  [1m[36mShift Load (0.5ms)[0m  [1m[34mSELECT  `shifts`.* FROM `shifts` WHERE `shifts`.`id` = 1 LIMIT 1[0m
+#<Shift id: 1, duration: "12:0", shift_no: 1, start_time: "2000-01-01 08:00:00", end_time: "2000-01-01 20:00:00", active: true, created_at: "2018-03-08 09:49:06", updated_at: "2018-03-13 04:16:58">
+(byebug) shift=Shift.find_by(id:report_data.shift_id),start_time: time[0].gsub(" ",""), end_time: time[1].gsub(" ",""))[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C)[K[C[C[C[C[C[C[C[C[C[Kshift.where()s)t)a)r)t)_)t)i)m)e):) )t)i)m)e)[)0)]).)g)s)u)b)()") )"),)")")[C),) )e)n)d)_)t)i)m)e):) )t)i)m)e)[)1)]).)g)s)u)b)()") )"),)")")[C)[C.first
+*** NoMethodError Exception: undefined method `where' for #<Shift:0x00000000053a5bb0>
+
+nil
+(byebug) shift.where(start_time: time[0].gsub(" ",""), end_time: time[1].gsub(" ","")).first[K[K[K[K[K[K
+*** NoMethodError Exception: undefined method `where' for #<Shift:0x00000000053a5bb0>
+
+nil
+(byebug) shift.where(start_time: time[0].gsub(" ",""), end_time: time[1].gsub(" ",""))[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P ",""))[1P",""))[1P,""))[1P""))[C[1P))[1P))[C[K[Kshift
+#<Shift id: 1, duration: "12:0", shift_no: 1, start_time: "2000-01-01 08:00:00", end_time: "2000-01-01 20:00:00", active: true, created_at: "2018-03-08 09:49:06", updated_at: "2018-03-13 04:16:58">
+(byebug) shift.start_time
+Sat, 01 Jan 2000 08:00:00 UTC +00:00
+(byebug) shift.start_time[C[C[C[C[C[C[C[C[C[Ktime[0]
+"08:00 AM "
+(byebug) time[0]shift.start_time[K.where(start_time: time[0].gsub(" ",""), end_time: time[1].gsub(" ","")).first[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P
+"08:00AM"
+(byebug) time[0].gsub(" ","")[Kshift.start_time[K.start_time
+Sat, 01 Jan 2000 08:00:00 UTC +00:00
+(byebug) shift.start_time[C[C[C[C[C[C[C[C[C[Kc
+  [1m[36mShift Load (0.7ms)[0m  [1m[34mSELECT  `shifts`.* FROM `shifts` WHERE `shifts`.`id` = 1 AND `shifts`.`start_time` = '08:00AM' AND `shifts`.`end_time` = '08:00PM' ORDER BY `shifts`.`id` ASC LIMIT 1[0m
+  [1m[36mMachineLog Load (72.1ms)[0m  [1m[34mSELECT `machine_logs`.* FROM `machine_logs` WHERE `machine_logs`.`machine_id` = 2 AND (`machine_logs`.`from_date` BETWEEN '2018-03-13 02:30:00' AND '2018-03-13 14:30:00') AND `machine_logs`.`status` = 0 ORDER BY `machine_logs`.`id` ASC[0m
+  [1m[36mMachineLog Load (87.3ms)[0m  [1m[34mSELECT `machine_logs`.* FROM `machine_logs` WHERE `machine_logs`.`machine_id` = 2 AND (`machine_logs`.`from_date` BETWEEN '2018-03-13 02:30:00' AND '2018-03-13 14:30:00') AND `machine_logs`.`status` = 1 ORDER BY `machine_logs`.`id` ASC[0m
+  [1m[36mMachineLog Load (90.0ms)[0m  [1m[34mSELECT `machine_logs`.* FROM `machine_logs` WHERE `machine_logs`.`machine_id` = 2 AND (`machine_logs`.`from_date` BETWEEN '2018-03-13 02:30:00' AND '2018-03-13 14:30:00') AND `machine_logs`.`status` = 3 ORDER BY `machine_logs`.`id` ASC[0m
+
+[133, 142] in /home/yantra/yantra/Test_Emerald/app/models/report.rb
+   133:            end
+   134:            current_run_time=@r.sum
+   135: 
+   136:          #-----------------------------------------
+   137:          byebug
+=> 138:            shift_time_available = Time.parse(shift.duration).seconds_since_midnight #shift available time calculation
+   139:            total_shift_time_available = ((shift_time_available/60).round())*60
+   140:            utilization =(current_run_time*100)/total_shift_time_available # utilization calculation
+   141:           utilization = utilization.nil? ? 0 : utilization
+   142:           operator_id = shift.operator_allocations.where(machine_id:machine.id).last.nil? ?  nil : shift.operator_allocations.where(machine_id:machine.id).last.operator_mappings.where(:date=>date.to_date).last.present? ? shift.operator_allocations.where(machine_id:machine.id).last.operator_mappings.where(:date=>date.to_date).last.operator.id : nil  
+(byebug) c
+NoMethodError: undefined method `duration' for nil:NilClass
+	from app/models/report.rb:138:in `last_shift_report'
+	from (irb):33
+2.4.2 :034 > Report.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![K
+Reloading...
+ => true 
+2.4.2 :035 > reload!Report.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![K
+Reloading...
+ => true 
+2.4.2 :036 > reload!Report.last_shift_report(2,1)
+  [1m[36mReport Load (0.4ms)[0m  [1m[34mSELECT  `reports`.* FROM `reports` WHERE `reports`.`machine_id` = 2 ORDER BY `reports`.`id` DESC LIMIT 1[0m
+  [1m[36mMachine Load (0.4ms)[0m  [1m[34mSELECT  `machines`.* FROM `machines` WHERE `machines`.`id` = 2 LIMIT 1[0m
+
+[103, 112] in /home/yantra/yantra/Test_Emerald/app/models/report.rb
+   103:     start_time1 =time[0]
+   104:     end_time1 =time[1]
+   105:     date=report_data.date
+   106:     machine = Machine.find_by_id(machine_id)
+   107:     byebug
+=> 108:     shift=Shift.find_by(report_data.shift_id)
+   109:        
+   110:     start_time = (date.strftime("%Y-%m-%d")+" "+start_time1).to_time
+   111:     end_time = (date.strftime("%Y-%m-%d")+" "+end_time1).to_time        
+   112:    
+(byebug) c
+ArgumentError: Unsupported argument type: 1 (Integer)
+	from app/models/report.rb:108:in `last_shift_report'
+	from (irb):36
+2.4.2 :037 > Report.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![K
+Reloading...
+ => true 
+2.4.2 :038 > reload!Report.last_shift_report(2,1)
+  [1m[36mReport Load (0.4ms)[0m  [1m[34mSELECT  `reports`.* FROM `reports` WHERE `reports`.`machine_id` = 2 ORDER BY `reports`.`id` DESC LIMIT 1[0m
+  [1m[36mMachine Load (0.4ms)[0m  [1m[34mSELECT  `machines`.* FROM `machines` WHERE `machines`.`id` = 2 LIMIT 1[0m
+
+[103, 112] in /home/yantra/yantra/Test_Emerald/app/models/report.rb
+   103:     start_time1 =time[0]
+   104:     end_time1 =time[1]
+   105:     date=report_data.date
+   106:     machine = Machine.find_by_id(machine_id)
+   107:     byebug
+=> 108:     shift=Shift.find_by(report_data.shift_id)
+   109:        
+   110:     start_time = (date.strftime("%Y-%m-%d")+" "+start_time1).to_time
+   111:     end_time = (date.strftime("%Y-%m-%d")+" "+end_time1).to_time        
+   112:    
+(byebug) shift=Shift.find_by(report_data.shift_id)
+*** ArgumentError Exception: Unsupported argument type: 1 (Integer)
+
+nil
+(byebug) shift=Shift.find_by(report_data.shift_id)_(report_data.shift_id)i(report_data.shift_id)d(report_data.shift_id)
+  [1m[36mShift Load (0.4ms)[0m  [1m[34mSELECT  `shifts`.* FROM `shifts` WHERE `shifts`.`id` = 1 LIMIT 1[0m
+#<Shift id: 1, duration: "12:0", shift_no: 1, start_time: "2000-01-01 08:00:00", end_time: "2000-01-01 20:00:00", active: true, created_at: "2018-03-08 09:49:06", updated_at: "2018-03-13 04:16:58">
+(byebug) c
+ArgumentError: Unsupported argument type: 1 (Integer)
+	from app/models/report.rb:108:in `last_shift_report'
+	from (irb):38
+2.4.2 :039 > cReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![K
+Reloading...
+ => true 
+2.4.2 :040 > reload!Report.last_shift_report(2,1)
+  [1m[36mReport Load (0.4ms)[0m  [1m[34mSELECT  `reports`.* FROM `reports` WHERE `reports`.`machine_id` = 2 ORDER BY `reports`.`id` DESC LIMIT 1[0m
+  [1m[36mMachine Load (0.4ms)[0m  [1m[34mSELECT  `machines`.* FROM `machines` WHERE `machines`.`id` = 2 LIMIT 1[0m
+
+[103, 112] in /home/yantra/yantra/Test_Emerald/app/models/report.rb
+   103:     start_time1 =time[0]
+   104:     end_time1 =time[1]
+   105:     date=report_data.date
+   106:     machine = Machine.find_by_id(machine_id)
+   107:     byebug
+=> 108:     shift=Shift.find_by_id(report_data.shift_id)
+   109:        
+   110:     start_time = (date.strftime("%Y-%m-%d")+" "+start_time1).to_time
+   111:     end_time = (date.strftime("%Y-%m-%d")+" "+end_time1).to_time        
+   112:    
+(byebug) c
+  [1m[36mShift Load (0.4ms)[0m  [1m[34mSELECT  `shifts`.* FROM `shifts` WHERE `shifts`.`id` = 1 LIMIT 1[0m
+  [1m[36mMachineLog Load (74.3ms)[0m  [1m[34mSELECT `machine_logs`.* FROM `machine_logs` WHERE `machine_logs`.`machine_id` = 2 AND (`machine_logs`.`from_date` BETWEEN '2018-03-13 02:30:00' AND '2018-03-13 14:30:00') AND `machine_logs`.`status` = 0 ORDER BY `machine_logs`.`id` ASC[0m
+  [1m[36mMachineLog Load (74.3ms)[0m  [1m[34mSELECT `machine_logs`.* FROM `machine_logs` WHERE `machine_logs`.`machine_id` = 2 AND (`machine_logs`.`from_date` BETWEEN '2018-03-13 02:30:00' AND '2018-03-13 14:30:00') AND `machine_logs`.`status` = 1 ORDER BY `machine_logs`.`id` ASC[0m
+  [1m[36mMachineLog Load (129.4ms)[0m  [1m[34mSELECT `machine_logs`.* FROM `machine_logs` WHERE `machine_logs`.`machine_id` = 2 AND (`machine_logs`.`from_date` BETWEEN '2018-03-13 02:30:00' AND '2018-03-13 14:30:00') AND `machine_logs`.`status` = 3 ORDER BY `machine_logs`.`id` ASC[0m
+
+[133, 142] in /home/yantra/yantra/Test_Emerald/app/models/report.rb
+   133:            end
+   134:            current_run_time=@r.sum
+   135: 
+   136:          #-----------------------------------------
+   137:          byebug
+=> 138:            shift_time_available = Time.parse(shift.duration).seconds_since_midnight #shift available time calculation
+   139:            total_shift_time_available = ((shift_time_available/60).round())*60
+   140:            utilization =(current_run_time*100)/total_shift_time_available # utilization calculation
+   141:           utilization = utilization.nil? ? 0 : utilization
+   142:           operator_id = shift.operator_allocations.where(machine_id:machine.id).last.nil? ?  nil : shift.operator_allocations.where(machine_id:machine.id).last.operator_mappings.where(:date=>date.to_date).last.present? ? shift.operator_allocations.where(machine_id:machine.id).last.operator_mappings.where(:date=>date.to_date).last.operator.id : nil  
+(byebug) shift
+#<Shift id: 1, duration: "12:0", shift_no: 1, start_time: "2000-01-01 08:00:00", end_time: "2000-01-01 20:00:00", active: true, created_at: "2018-03-08 09:49:06", updated_at: "2018-03-13 04:16:58">
+(byebug) shift.duration
+"12:0"
+(byebug) c
+  [1m[36mOperatorAllocation Load (0.7ms)[0m  [1m[34mSELECT  `operator_allocations`.* FROM `operator_allocations` WHERE `operator_allocations`.`shift_id` = 1 AND `operator_allocations`.`machine_id` = 2 ORDER BY `operator_allocations`.`id` DESC LIMIT 1[0m
+
+[140, 149] in /home/yantra/yantra/Test_Emerald/app/models/report.rb
+   140:            utilization =(current_run_time*100)/total_shift_time_available # utilization calculation
+   141:           utilization = utilization.nil? ? 0 : utilization
+   142:           operator_id = shift.operator_allocations.where(machine_id:machine.id).last.nil? ?  nil : shift.operator_allocations.where(machine_id:machine.id).last.operator_mappings.where(:date=>date.to_date).last.present? ? shift.operator_allocations.where(machine_id:machine.id).last.operator_mappings.where(:date=>date.to_date).last.operator.id : nil  
+   143:           total=current_stop_time + current_down_time + current_run_time
+   144:           byebug
+=> 145:          @data << [ Date.today,shift.shift_no,shift.start_time.strftime("%I:%M %p")+' - '+shift.end_time.strftime("%I:%M %p"),shift.id,operator_id,machine.id,Time.at(current_run_time).utc.strftime("%H:%M:%S"),Time.at(current_down_time).utc.strftime("%H:%M:%S"),Time.at(current_stop_time).utc.strftime("%H:%M:%S"),Time.at(total).utc.strftime("%H:%M:%S"),shift.duration,utilization.nil? || utilization < 0 ? 0 : utilization.round()]
+   146:          byebug
+   147:        end
+   148: 
+   149: 
+(byebug) c
+Return value is: nil
+
+[142, 151] in /home/yantra/yantra/Test_Emerald/app/models/report.rb
+   142:           operator_id = shift.operator_allocations.where(machine_id:machine.id).last.nil? ?  nil : shift.operator_allocations.where(machine_id:machine.id).last.operator_mappings.where(:date=>date.to_date).last.present? ? shift.operator_allocations.where(machine_id:machine.id).last.operator_mappings.where(:date=>date.to_date).last.operator.id : nil  
+   143:           total=current_stop_time + current_down_time + current_run_time
+   144:           byebug
+   145:          @data << [ Date.today,shift.shift_no,shift.start_time.strftime("%I:%M %p")+' - '+shift.end_time.strftime("%I:%M %p"),shift.id,operator_id,machine.id,Time.at(current_run_time).utc.strftime("%H:%M:%S"),Time.at(current_down_time).utc.strftime("%H:%M:%S"),Time.at(current_stop_time).utc.strftime("%H:%M:%S"),Time.at(total).utc.strftime("%H:%M:%S"),shift.duration,utilization.nil? || utilization < 0 ? 0 : utilization.round()]
+   146:          byebug
+=> 147:        end
+   148: 
+   149: 
+   150: 
+   151: 
+(byebug) @data
+[[Tue, 13 Mar 2018, 1, "08:00 AM - 08:00 PM", 1, nil, 2, "02:38:42", "02:38:42", "02:38:58", "07:56:22", "12:0", 22]]
+(byebug) c
+ => nil 
+2.4.2 :041 > Report.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![K
+Reloading...
+ => true 
+2.4.2 :042 > exit
+]0;yantra@yantra: ~/yantra/Test_Emeraldyantra@yantra:~/yantra/Test_Emerald$ rails cspring stop[4Prails cs -b 192.168.1.48 -p 3001[12Pcd ../Test_Emerald/[3Pyantra_aws
+]0;yantra@yantra: ~/yantra/yantra_awsyantra@yantra:~/yantra/yantra_aws$ cd ../yantra_aws[9Prails cspring stop[4Prails cs -b 192.168.1.48 -p 3001[12Pcd ../Test_Emerald/rails s -b 192.168.1.48 -p 3001[K7
+/home/yantra/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/yantra/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+=> Booting Puma
+=> Rails 5.0.1 application starting in development on http://192.168.1.48:3007
+=> Run `rails server -h` for more startup options
+/home/yantra/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+Puma starting in single mode...
+* Version 3.7.1 (ruby 2.4.2-p198), codename: Snowy Sagebrush
+* Min threads: 5, max threads: 5
+* Environment: development
+* Listening on tcp://192.168.1.48:3007
+Use Ctrl-C to stop
+^CExiting
+]0;yantra@yantra: ~/yantra/yantra_awsyantra@yantra:~/yantra/yantra_aws$ cd ../yantra_aws_production/
+]0;yantra@yantra: ~/yantra/yantra_aws_productionyantra@yantra:~/yantra/yantra_aws_production$ cd ../yantra_aws_production/rails s -b 192.168.1.48 -p 3007[15Pcd ../yantra_aws[9Prails c
+/home/yantra/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/yantra/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/yantra/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+Running via Spring preloader in process 27096
+Loading development environment (Rails 5.0.1)
+2.4.2 :001 > exitreload!Report.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![K
+Reloading...
+ => true 
+2.4.2 :002 > reload![3Pexitreload!Report.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[K[4Preload!Role.last[2Preload!Role.last[2Preload!Role.last[2Preload!Role.last[2Preload!Role.last[2Preload!Role.last[2Preload!Role.last[Kexit        end   end     end puts "Not register machine_ip #{status[0]}"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cend[K[5Pend[3Pend[7Pexit[KRole.last[2Preload!Role.last[2Preload!Role.last[2Preload!Role.last[2Preload!Role.last[2Preload!Role.last[2Preload!Role.last[2Preload!Report.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![K[3Pexitreload![KALar[K[K[Klarm.notification
+
+[6, 15] in /home/yantra/yantra/yantra_aws_production/app/models/alarm.rb
+    6:     belongs_to :machine
+    7: 
+    8: 
+    9:     def self.notification
+   10:       byebug
+=> 11:       machine_log = MachineLog.last
+   12:      if machine_log.machine_status == 0 || machine_log.machine_status == 100 
+   13:        machine_name = machine_log.machine.machine_name # law of demeter in bestpractices
+   14:       player_id = OneSignal.where(user_id:machine_log.machine.tenant.roles.find_by_role_name("CEO").users.ids).pluck(:player_id).uniq
+   15:       puts player_id
+(byebug) cRole.find(30).update(:tenant_id=>6)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6).update(:tenant_id=>6)[C[C[C[C[C[C[C[C[C[C[C[C[C[Clast(3)[Kfind(36).update(:tenant_id=>6)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0).update(:tenant_id=>6)[C[C[C[C[C[C[C[C[Cc[K[KMachineLog.last
+  [1m[36mMachineLog Load (0.6ms)[0m  [1m[34mSELECT  `machine_logs`.* FROM `machine_logs` ORDER BY `machine_logs`.`id` DESC LIMIT 1[0m
+#<MachineLog id: 4456178, parts_count: 7, machine_status: 0, job_id: "", total_run_time: 218, total_cutting_time: 651054, run_time: 0, feed_rate: 0, cutting_speed: 0, axis_load: nil, axis_name: nil, spindle_speed: nil, spindle_load: nil, total_run_second: 35344, programe_number: "3860", programe_description: nil, run_second: 26544, machine_id: 11, created_at: "2018-03-13 03:11:46", updated_at: "2018-03-13 03:11:46", machine_time: nil>
+(byebug) MachineLog.last[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kc[KMachineLog.last[K[K[K[Kwhere()m)a)c)h)i)n)e)_)s)t)a)t)u)s):)0)
+^C^Z
+[4]+  Stopped                 rails c
+]0;yantra@yantra: ~/yantra/yantra_aws_productionyantra@yantra:~/yantra/yantra_aws_production$ rails c
+Running via Spring preloader in process 27193
+Loading development environment (Rails 5.0.1)
+2.4.2 :001 > exitreload!Report.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![K[3Pexit[Kexitreload!Report.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![K
+Reloading...
+ => true 
+2.4.2 :002 > reload![3Pexitreload!Report.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![KReport.last_shift_report(2,1)[C[C[C[C[C[C[C[C[C[C[C[C[Creload![K[3Pexitreload![KAlarm.notification
+
+[6, 15] in /home/yantra/yantra/yantra_aws_production/app/models/alarm.rb
+    6:     belongs_to :machine
+    7: 
+    8: 
+    9:     def self.notification
+   10:       byebug
+=> 11:       machine_log = MachineLog.last
+   12:      if machine_log.machine_status == 0 || machine_log.machine_status == 100 
+   13:        machine_name = machine_log.machine.machine_name # law of demeter in bestpractices
+   14:       player_id = OneSignal.where(user_id:machine_log.machine.tenant.roles.find_by_role_name("CEO").users.ids).pluck(:player_id).uniq
+   15:       puts player_id
+(byebug) c[KMachineLog.where(machine_status:0),)c)r)e)a)t)e)d)_)a)t):)  [1m[36mMachineLog Load (83530.3ms)[0m  [1m[34mSELECT `machine_logs`.* FROM `machine_logs` WHERE `machine_logs`.`machine_status` = 0[0m
+IRB::Abort: abort then interrupt!
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/mysql2-0.4.9/lib/mysql2/client.rb:120:in `_query'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/mysql2-0.4.9/lib/mysql2/client.rb:120:in `block in query'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/mysql2-0.4.9/lib/mysql2/client.rb:119:in `handle_interrupt'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/mysql2-0.4.9/lib/mysql2/client.rb:119:in `query'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activerecord-5.0.1/lib/active_record/connection_adapters/abstract_mysql_adapter.rb:218:in `block in execute'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activerecord-5.0.1/lib/active_record/connection_adapters/abstract_adapter.rb:589:in `block in log'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activerecord-5.0.1/lib/active_record/connection_adapters/abstract_adapter.rb:583:in `log'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activerecord-5.0.1/lib/active_record/connection_adapters/abstract_mysql_adapter.rb:218:in `execute'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activerecord-5.0.1/lib/active_record/connection_adapters/mysql/database_statements.rb:31:in `execute'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activerecord-5.0.1/lib/active_record/connection_adapters/abstract_mysql_adapter.rb:225:in `execute_and_free'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activerecord-5.0.1/lib/active_record/connection_adapters/mysql/database_statements.rb:36:in `exec_query'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activerecord-5.0.1/lib/active_record/connection_adapters/abstract/database_statements.rb:373:in `select'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activerecord-5.0.1/lib/active_record/connection_adapters/abstract/database_statements.rb:41:in `select_all'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activerecord-5.0.1/lib/active_record/connection_adapters/abstract/query_cache.rb:95:in `select_all'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activerecord-5.0.1/lib/active_record/connection_adapters/mysql/database_statements.rb:10:in `select_all'
+... 16 levels...
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/railties-5.0.1/lib/rails/commands/console_helper.rb:9:in `start'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/railties-5.0.1/lib/rails/commands/commands_tasks.rb:78:in `console'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/railties-5.0.1/lib/rails/commands/commands_tasks.rb:49:in `run_command!'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/railties-5.0.1/lib/rails/commands.rb:18:in `<top (required)>'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/dependencies.rb:293:in `require'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/dependencies.rb:293:in `block in require'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/dependencies.rb:259:in `load_dependency'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/dependencies.rb:293:in `require'
+	from /home/yantra/yantra/yantra_aws_production/bin/rails:9:in `<top (required)>'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/dependencies.rb:287:in `load'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/dependencies.rb:287:in `block in load'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/dependencies.rb:259:in `load_dependency'
+	from /home/yantra/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/dependencies.rb:287:in `load'
+	from /home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /home/yantra/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from -e:1:in `<main>'
+2.4.2 :003 > ^C
+(byebug) [[[[K[K[Kc
+  [1m[36mMachineLog Load (9.6ms)[0m  [1m[34mSELECT  `machine_logs`.* FROM `machine_logs` ORDER BY `machine_logs`.`id` DESC LIMIT 1[0m
+  [1m[36mMachine Load (78.9ms)[0m  [1m[34mSELECT  `machines`.* FROM `machines` WHERE `machines`.`deleted_at` IS NULL AND `machines`.`id` = 11 LIMIT 1[0m
+  [1m[36mTenant Load (11.7ms)[0m  [1m[34mSELECT  `tenants`.* FROM `tenants` WHERE `tenants`.`deleted_at` IS NULL AND `tenants`.`id` = 7 LIMIT 1[0m
+  [1m[36mRole Load (22.1ms)[0m  [1m[34mSELECT  `roles`.* FROM `roles` WHERE `roles`.`tenant_id` = 7 AND `roles`.`role_name` = 'CEO' LIMIT 1[0m
+  [1m[35m (29.4ms)[0m  [1m[34mSELECT `users`.`id` FROM `users` WHERE `users`.`deleted_at` IS NULL AND `users`.`role_id` = 32[0m
+  [1m[35m (30.1ms)[0m  [1m[34mSELECT `one_signals`.`player_id` FROM `one_signals` WHERE `one_signals`.`user_id` = 7[0m
+7e9a2abf-d387-4fb3-b07a-ec00d448c637
+648d1e21-3de9-4c75-b27a-a4101b5a084f
+a412d024-e563-4185-8822-15d0ab7be909
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mMachineLog Load (0.9ms)[0m  [1m[34mSELECT 

@@ -1,0 +1,2 @@
+class HmiReason < ApplicationRecord
+end

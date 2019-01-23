@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  plant_name: MyString
+  place: MyString
+  tenant: one
+
+two:
+  plant_name: MyString
+  place: MyString
+  tenant: two

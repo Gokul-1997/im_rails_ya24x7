@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  authorization_name: MyString
+  description: MyString
+
+two:
+  authorization_name: MyString
+  description: MyString

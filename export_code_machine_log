@@ -1,0 +1,54 @@
+data1=CSV.read("/home/ubuntu/YantraAPI/yantra_aws/public/Glider Tech Automation-April-last.csv")
+data1.shift
+data1.map do |data|
+Report.create!(date:data[0], shift_no: data[1], time: data[2], operator_id: (data[3]=="Not Assigned") ? nil : Operator.where(:operator_spec_id=>data[3]).ids[0], machine_id: Machine.where(:machine_name=>data[5]).ids[0], program_number: data[7], job_description: data[8], parts_produced: data[9].to_i, cycle_time: data[10], loading_and_unloading_time: data[11], idle_time: data[12], total_downtime: data[13], actual_running: data[14], actual_working_hours: data[15], tenant_id: tenant=Machine.find_by(:machine_name=>data[5]).tenant_id,utilization:data[16],shift_id: Shift.find_by(tenant_id:tenant).id)
+end
+
+
+data1=CSV.read("/home/ubuntu/YantraAPI/yantra_aws/public/Precicraft CNC Works-April-last.csv")
+data1.shift
+data1.map do |data|
+Report.create!(date:data[0], shift_no: data[1], time: data[2], operator_id: (data[3]=="Not Assigned") ? nil : Operator.where(:operator_spec_id=>data[3]).ids[0], machine_id: Machine.where(:machine_name=>data[5]).ids[0], program_number: data[7], job_description: data[8], parts_produced: data[9].to_i, cycle_time: data[10], loading_and_unloading_time: data[11], idle_time: data[12], total_downtime: data[13], actual_running: data[14], actual_working_hours: data[15], tenant_id: tenant=Machine.find_by(:machine_name=>data[5]).tenant_id,utilization:data[16],shift_id: Shift.find_by(tenant_id:tenant).id)
+end
+
+
+data1=CSV.read("/home/ubuntu/YantraAPI/yantra_aws/public/Suresh Gears Industry-April-last.csv")
+data1.shift
+data1.map do |data|
+Report.create!(date:data[0], shift_no: data[1], time: data[2], operator_id: (data[3]=="Not Assigned") ? nil : Operator.where(:operator_spec_id=>data[3]).ids[0], machine_id: Machine.where(:machine_name=>data[5]).ids[0], program_number: data[7], job_description: data[8], parts_produced: data[9].to_i, cycle_time: data[10], loading_and_unloading_time: data[11], idle_time: data[12], total_downtime: data[13], actual_running: data[14], actual_working_hours: data[15], tenant_id: tenant=Machine.find_by(:machine_name=>data[5]).tenant_id,utilization:data[16],shift_id: Shift.find_by(tenant_id:tenant).id)
+end
+
+
+data1=CSV.read("/home/ubuntu/YantraAPI/yantra_aws/public/Sansree Precision CNC Turnining-April-last.csv")
+data1.shift
+data1.map do |data|
+Report.create!(date:data[0], shift_no: data[1], time: data[2], operator_id: (data[3]=="Not Assigned") ? nil : Operator.where(:operator_spec_id=>data[3]).ids[0], machine_id: Machine.where(:machine_name=>data[5]).ids[0], program_number: data[7], job_description: data[8], parts_produced: data[9].to_i, cycle_time: data[10], loading_and_unloading_time: data[11], idle_time: data[12], total_downtime: data[13], actual_running: data[14], actual_working_hours: data[15], tenant_id: tenant=Machine.find_by(:machine_name=>data[5]).tenant_id,utilization:data[16],shift_id: Shift.find_by(tenant_id:tenant).id)
+end
+
+
+data1=CSV.read("/home/ubuntu/YantraAPI/yantra_aws/public/Super Machine Works Private Limited-April-last.csv")
+data1.shift
+data1.map do |data|
+Report.create!(date:data[0], shift_no: data[1], time: data[2], operator_id: (data[3]=="Not Assigned") ? nil : Operator.where(:operator_spec_id=>data[3]).ids[0], machine_id: Machine.where(:machine_name=>data[5]).ids[0], program_number: data[7], job_description: data[8], parts_produced: data[9].to_i, cycle_time: data[10], loading_and_unloading_time: data[11], idle_time: data[12], total_downtime: data[13], actual_running: data[14], actual_working_hours: data[15], tenant_id: tenant=Machine.find_by(:machine_name=>data[5]).tenant_id,utilization:data[16],shift_id: Shift.find_by(tenant_id:tenant).id)
+end
+
+
+data1=CSV.read("/home/ubuntu/YantraAPI/yantra_aws/public/Alpha Drives-April-last.csv")
+data1.shift
+data1.map do |data|
+Report.create!(date:data[0], shift_no: data[1], time: data[2], operator_id: (data[3]=="Not Assigned") ? nil : Operator.where(:operator_spec_id=>data[3]).ids[0], machine_id: Machine.where(:machine_name=>data[5]).ids[0], program_number: data[7], job_description: data[8], parts_produced: data[9].to_i, cycle_time: data[10], loading_and_unloading_time: data[11], idle_time: data[12], total_downtime: data[13], actual_running: data[14], actual_working_hours: data[15], tenant_id: tenant=Machine.find_by(:machine_name=>data[5]).tenant_id,utilization:data[16],shift_id: Shift.find_by(tenant_id:tenant).id)
+end
+
+
+data1=CSV.read("/home/ubuntu/YantraAPI/yantra_aws/public/AACE HITECH ENGINEERING PVT.LTD-April-last.csv")
+data1.shift
+data1.map do |data|
+Report.create!(date:data[0], shift_no: data[1], time: data[2], operator_id: (data[3]=="Not Assigned") ? nil : Operator.where(:operator_spec_id=>data[3]).ids[0], machine_id: Machine.where(:machine_name=>data[5]).ids[0], program_number: data[7], job_description: data[8], parts_produced: data[9].to_i, cycle_time: data[10], loading_and_unloading_time: data[11], idle_time: data[12], total_downtime: data[13], actual_running: data[14], actual_working_hours: data[15], tenant_id: tenant=Machine.find_by(:machine_name=>data[5]).tenant_id,utilization:data[16],shift_id: Shift.find_by(tenant_id:tenant).id)
+end
+
+
+data1=CSV.read("/home/ubuntu/YantraAPI/yantra_aws/public/bakgiyam engineering-April-last.csv")
+data1.shift
+data1.map do |data|
+Report.create!(date:data[0], shift_no: data[1], time: data[2], operator_id: (data[3]=="Not Assigned") ? nil : Operator.where(:operator_spec_id=>data[3]).ids[0], machine_id: Machine.where(:machine_name=>data[5]).ids[0], program_number: data[7], job_description: data[8], parts_produced: data[9].to_i, cycle_time: data[10], loading_and_unloading_time: data[11], idle_time: data[12], total_downtime: data[13], actual_running: data[14], actual_working_hours: data[15], tenant_id: tenant=Machine.find_by(:machine_name=>data[5]).tenant_id,utilization:data[16],shift_id: Shift.find_by(tenant_id:tenant).id)
+end

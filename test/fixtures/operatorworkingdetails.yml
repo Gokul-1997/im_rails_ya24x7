@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  working_date: 2017-02-23
+  from_time: 2017-02-23 14:42:17
+  to_time: 2017-02-23 14:42:17
+  user: one
+  shifttransaction: one
+  machine: one
+  tenant: one
+
+two:
+  working_date: 2017-02-23
+  from_time: 2017-02-23 14:42:17
+  to_time: 2017-02-23 14:42:17
+  user: two
+  shifttransaction: two
+  machine: two
+  tenant: two

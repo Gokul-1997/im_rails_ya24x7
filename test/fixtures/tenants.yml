@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tenant_name: MyString
+  address_line1: MyString
+  address_line2: MyString
+  city: MyString
+  state: MyString
+  country: MyString
+  pincode: MyString
+  parent_tenant_id: 1
+  companytype: one
+
+two:
+  tenant_name: MyString
+  address_line1: MyString
+  address_line2: MyString
+  city: MyString
+  state: MyString
+  country: MyString
+  pincode: MyString
+  parent_tenant_id: 1
+  companytype: two

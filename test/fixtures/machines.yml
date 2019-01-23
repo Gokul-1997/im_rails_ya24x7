@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  machine_name: MyString
+  machine_model: MyString
+  machine_serial_no: MyString
+  machine_type: MyString
+  tenant: one
+
+two:
+  machine_name: MyString
+  machine_model: MyString
+  machine_serial_no: MyString
+  machine_type: MyString
+  tenant: two

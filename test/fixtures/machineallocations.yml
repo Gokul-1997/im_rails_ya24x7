@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  from_date: 2017-02-23
+  to_date: 2017-02-23
+  start_time: 2017-02-23 12:02:25
+  end_time: 2017-02-23 12:02:25
+  actual_quantity: 1
+  cycle_time: 2017-02-23 12:02:25
+  idle_cycle_time: 2017-02-23 12:02:25
+  total_down_time: 9.99
+  produced_quantiy: 1
+  tenant: one
+  machine: one
+  cncoperation: one
+
+two:
+  from_date: 2017-02-23
+  to_date: 2017-02-23
+  start_time: 2017-02-23 12:02:25
+  end_time: 2017-02-23 12:02:25
+  actual_quantity: 1
+  cycle_time: 2017-02-23 12:02:25
+  idle_cycle_time: 2017-02-23 12:02:25
+  total_down_time: 9.99
+  produced_quantiy: 1
+  tenant: two
+  machine: two
+  cncoperation: two

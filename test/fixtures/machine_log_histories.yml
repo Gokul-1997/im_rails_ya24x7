@@ -1,0 +1,47 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  parts_count: 1
+  machine_status: 1
+  job_id: MyString
+  total_run_time: 1
+  total_cutting_time: 1
+  run_time: 1
+  feed_rate: 1
+  cutting_speed: 1
+  axis_load: 1
+  axis_name: MyString
+  spindle_speed: 1
+  spindle_load: 1
+  total_run_second: 1
+  programe_number: MyString
+  programe_description: MyString
+  run_second: 1
+  machine_time: 2018-09-24 12:36:23
+  cycle_time_minutes: MyString
+  machine_total_time: MyString
+  cycle_time_per_part: MyString
+  machine: one
+
+two:
+  parts_count: 1
+  machine_status: 1
+  job_id: MyString
+  total_run_time: 1
+  total_cutting_time: 1
+  run_time: 1
+  feed_rate: 1
+  cutting_speed: 1
+  axis_load: 1
+  axis_name: MyString
+  spindle_speed: 1
+  spindle_load: 1
+  total_run_second: 1
+  programe_number: MyString
+  programe_description: MyString
+  run_second: 1
+  machine_time: 2018-09-24 12:36:23
+  cycle_time_minutes: MyString
+  machine_total_time: MyString
+  cycle_time_per_part: MyString
+  machine: two

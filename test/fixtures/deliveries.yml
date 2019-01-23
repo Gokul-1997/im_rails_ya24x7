@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_date: 2017-02-23
+  delivery_date: 2017-02-23
+  quantity: 1
+  cncjob: one
+  deliverytype: one
+
+two:
+  start_date: 2017-02-23
+  delivery_date: 2017-02-23
+  quantity: 1
+  cncjob: two
+  deliverytype: two

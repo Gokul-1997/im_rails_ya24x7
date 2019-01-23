@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  alarm_type: MyString
+  alarm_number: MyString
+  alarm_message: MyString
+  emergency: MyString
+  machine: one
+
+two:
+  alarm_type: MyString
+  alarm_number: MyString
+  alarm_message: MyString
+  emergency: MyString
+  machine: two

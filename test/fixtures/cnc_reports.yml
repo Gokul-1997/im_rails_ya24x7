@@ -1,0 +1,41 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2018-08-20 16:20:12
+  hour: MyString
+  shift_no: 1
+  time: MyString
+  program_no: MyString
+  job_description: MyString
+  parts_produced: MyString
+  run_time: MyString
+  idle_time: MyString
+  stop_time: MyString
+  time_diff: MyString
+  utilization: 1
+  all_cycle_time: MyText
+  is_sent: false
+  shift: one
+  operator: one
+  machine: one
+  tenant: one
+
+two:
+  date: 2018-08-20 16:20:12
+  hour: MyString
+  shift_no: 1
+  time: MyString
+  program_no: MyString
+  job_description: MyString
+  parts_produced: MyString
+  run_time: MyString
+  idle_time: MyString
+  stop_time: MyString
+  time_diff: MyString
+  utilization: 1
+  all_cycle_time: MyText
+  is_sent: false
+  shift: two
+  operator: two
+  machine: two
+  tenant: two

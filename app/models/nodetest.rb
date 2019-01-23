@@ -1,0 +1,2 @@
+class Nodetest < ApplicationRecord
+end

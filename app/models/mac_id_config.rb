@@ -1,0 +1,2 @@
+class MacIdConfig < ApplicationRecord
+end

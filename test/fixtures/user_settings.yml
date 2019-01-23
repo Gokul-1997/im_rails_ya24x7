@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  is_active: false
+  reason: MyString
+  machine: MyText
+  user: one
+
+two:
+  is_active: false
+  reason: MyString
+  machine: MyText
+  user: two

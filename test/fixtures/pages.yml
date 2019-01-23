@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  page_name: MyString
+  icon: MyString
+  url: MyString
+  parent_page_id: 1
+  usertype: one
+
+two:
+  page_name: MyString
+  icon: MyString
+  url: MyString
+  parent_page_id: 1
+  usertype: two

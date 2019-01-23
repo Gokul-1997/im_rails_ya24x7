@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  maintance_type: MyString
+  change_date: 2017-02-23
+  next_change_date: 2017-02-23
+  reason_for_change: MyString
+  machine: one
+  tenant: one
+
+two:
+  maintance_type: MyString
+  change_date: 2017-02-23
+  next_change_date: 2017-02-23
+  reason_for_change: MyString
+  machine: two
+  tenant: two

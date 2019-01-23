@@ -1,0 +1,1145 @@
+=== puma startup: 2019-01-04 05:12:17 +0000 ===
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+=== puma startup: 2019-01-04 07:50:25 +0000 ===
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+=== puma startup: 2019-01-07 05:13:56 +0000 ===
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+=== puma startup: 2019-01-07 19:18:20 +0530 ===
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+=== puma startup: 2019-01-07 19:22:15 +0530 ===
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+=== puma startup: 2019-01-07 19:36:28 +0530 ===
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+=== puma startup: 2019-01-07 19:42:57 +0530 ===
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:851: warning: key :downtime is duplicated and overwritten on line 869
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+=== puma startup: 2019-01-10 19:22:23 +0530 ===
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+=== puma startup: 2019-01-10 23:26:29 +0530 ===
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+=== puma startup: 2019-01-11 00:40:17 +0530 ===
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:852: warning: key :downtime is duplicated and overwritten on line 870
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:914: warning: key :downtime is duplicated and overwritten on line 932
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+2019-01-19 16:53:50 +0530: Listen loop error: #<ThreadError: can't create Thread: Resource temporarily unavailable>
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:74:in `initialize'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:74:in `new'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:74:in `spawn_thread'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:149:in `block in <<'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:141:in `synchronize'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:141:in `<<'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:341:in `block in handle_servers'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:328:in `each'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:328:in `handle_servers'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:301:in `block in run'
+2019-01-19 16:54:52 +0530: Listen loop error: #<ThreadError: can't create Thread: Resource temporarily unavailable>
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:74:in `initialize'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:74:in `new'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:74:in `spawn_thread'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:149:in `block in <<'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:141:in `synchronize'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:141:in `<<'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:341:in `block in handle_servers'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:328:in `each'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:328:in `handle_servers'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:301:in `block in run'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+=== puma startup: 2019-01-19 20:47:48 +0530 ===
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+2019-01-19 20:53:33 +0530: Listen loop error: #<ThreadError: can't create Thread: Resource temporarily unavailable>
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:74:in `initialize'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:74:in `new'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:74:in `spawn_thread'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:149:in `block in <<'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:141:in `synchronize'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:141:in `<<'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:341:in `block in handle_servers'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:328:in `each'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:328:in `handle_servers'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:301:in `block in run'
+2019-01-19 20:54:28 +0530: Listen loop error: #<ThreadError: can't create Thread: Resource temporarily unavailable>
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:74:in `initialize'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:74:in `new'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:74:in `spawn_thread'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:149:in `block in <<'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:141:in `synchronize'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:141:in `<<'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:341:in `block in handle_servers'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:328:in `each'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:328:in `handle_servers'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:301:in `block in run'2019-01-19 20:54:33 +0530: Listen loop error: #<ThreadError: can't create Thread: Resource temporarily unavailable>
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:74:in `initialize'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:74:in `new'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:74:in `spawn_thread'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:149:in `block in <<'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:141:in `synchronize'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:141:in `<<'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:341:in `block in handle_servers'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:328:in `each'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:328:in `handle_servers'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:301:in `block in run'
+
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/dependencies.rb:293:in `require': /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/bcrypt-3.1.11/lib/bcrypt_ext.so: failed to map segment from shared object: Cannot allocate memory - /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/bcrypt-3.1.11/lib/bcrypt_ext.so (LoadError)
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/dependencies.rb:293:in `block in require'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/dependencies.rb:259:in `load_dependency'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/dependencies.rb:293:in `require'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/bcrypt-3.1.11/lib/bcrypt.rb:16:in `rescue in <top (required)>'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/bcrypt-3.1.11/lib/bcrypt.rb:12:in `<top (required)>'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/bundler-1.17.2/lib/bundler/runtime.rb:81:in `require'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/bundler-1.17.2/lib/bundler/runtime.rb:81:in `block (2 levels) in require'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/bundler-1.17.2/lib/bundler/runtime.rb:76:in `each'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/bundler-1.17.2/lib/bundler/runtime.rb:76:in `block in require'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/bundler-1.17.2/lib/bundler/runtime.rb:65:in `each'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/bundler-1.17.2/lib/bundler/runtime.rb:65:in `require'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/bundler-1.17.2/lib/bundler.rb:114:in `require'
+	from /home/ubuntu/imtex/imtex2019/config/application.rb:20:in `<top (required)>'
+	from /home/ubuntu/imtex/imtex2019/config/environment.rb:2:in `require_relative'
+	from /home/ubuntu/imtex/imtex2019/config/environment.rb:2:in `<top (required)>'
+	from config.ru:3:in `require_relative'
+	from config.ru:3:in `block in <main>'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/rack-2.0.1/lib/rack/builder.rb:55:in `instance_eval'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/rack-2.0.1/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:in `new'
+	from config.ru:in `<main>'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/rack-2.0.1/lib/rack/builder.rb:49:in `eval'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/rack-2.0.1/lib/rack/builder.rb:49:in `new_from_string'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/rack-2.0.1/lib/rack/builder.rb:40:in `parse_file'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/configuration.rb:323:in `load_rackup'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/configuration.rb:250:in `app'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/runner.rb:148:in `app'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/runner.rb:155:in `start_server'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/cluster.rb:261:in `worker'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/cluster.rb:126:in `block (2 levels) in spawn_workers'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/cluster.rb:126:in `fork'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/cluster.rb:126:in `block in spawn_workers'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/cluster.rb:122:in `times'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/cluster.rb:122:in `spawn_workers'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/cluster.rb:200:in `check_workers'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/cluster.rb:465:in `run'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/launcher.rb:171:in `run'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/cli.rb:77:in `run'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/bin/puma:10:in `<top (required)>'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/cluster.rb:126:in `fork': 	from /home/ubuntu/.rvm/gems/ruby-2.4.2/bin/puma:23:in `load'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/bin/puma:23:in `<main>'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:24:in `eval'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:24:in `<main>'
+Cannot allocate memory - fork(2) (Errno::ENOMEM)
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/cluster.rb:126:in `block in spawn_workers'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/cluster.rb:122:in `times'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/cluster.rb:122:in `spawn_workers'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/cluster.rb:200:in `check_workers'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/cluster.rb:465:in `run'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/launcher.rb:171:in `run'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/cli.rb:77:in `run'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/bin/puma:10:in `<top (required)>'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/bin/puma:23:in `load'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/bin/puma:23:in `<main>'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:24:in `eval'
+	from /home/ubuntu/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:24:in `<main>'
+=== puma startup: 2019-01-19 20:55:50 +0530 ===
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+2019-01-19 20:56:28 +0530: Listen loop error: #<ThreadError: can't create Thread: Resource temporarily unavailable>
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:74:in `initialize'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:74:in `new'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:74:in `spawn_thread'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:149:in `block in <<'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:141:in `synchronize'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/thread_pool.rb:141:in `<<'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:341:in `block in handle_servers'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:328:in `each'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:328:in `handle_servers'
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/puma-3.7.1/lib/puma/server.rb:301:in `block in run'
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+=== puma startup: 2019-01-19 21:59:01 +0530 ===
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+=== puma startup: 2019-01-21 23:18:35 +0530 ===
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+=== puma startup: 2019-01-21 23:45:13 +0530 ===
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:51: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/xml_mini.rb:52: warning: constant ::Bignum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/.rvm/gems/ruby-2.4.2/gems/activesupport-5.0.1/lib/active_support/core_ext/numeric/conversions.rb:138: warning: constant ::Fixnum is deprecated
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/report.rb:1154: warning: else without rescue is useless
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:525: warning: key :start_time is duplicated and overwritten on line 542
+/home/ubuntu/imtex/imtex2019/app/models/machine_daily_log.rb:915: warning: key :downtime is duplicated and overwritten on line 933
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition
+/home/ubuntu/imtex/imtex2019/app/models/user.rb:32: warning: string literal in condition

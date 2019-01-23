@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  job_id: MyString
+  program_number: MyString
+  parts_count: 1
+  operator: one
+  machine: one
+  tenant: one
+
+two:
+  job_id: MyString
+  program_number: MyString
+  parts_count: 1
+  operator: two
+  machine: two
+  tenant: two

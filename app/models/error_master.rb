@@ -1,0 +1,2 @@
+class ErrorMaster < ApplicationRecord
+end

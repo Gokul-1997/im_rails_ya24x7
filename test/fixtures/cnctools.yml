@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tool_name: MyString
+  no_of_parts: 1
+  material_string: MyString
+  produced_count: 
+  tenant: one
+  machine: one
+
+two:
+  tool_name: MyString
+  no_of_parts: 1
+  material_string: MyString
+  produced_count: 
+  tenant: two
+  machine: two

@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  status: 1
+  heart_beat: 1
+  from_date: 2018-09-12 10:18:43
+  to_date: 2018-09-12 10:18:43
+  uptime: 2018-09-12 10:18:43
+  reason: MyString
+  machine: one
+
+two:
+  status: 1
+  heart_beat: 1
+  from_date: 2018-09-12 10:18:43
+  to_date: 2018-09-12 10:18:43
+  uptime: 2018-09-12 10:18:43
+  reason: MyString
+  machine: two

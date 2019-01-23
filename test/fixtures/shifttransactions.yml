@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  shift_start_time: 2017-02-22 15:55:24
+  shift_end_time: 2017-02-22 15:55:24
+  actual_working_hours: 2017-02-22 15:55:24
+  shift: one
+
+two:
+  shift_start_time: 2017-02-22 15:55:24
+  shift_end_time: 2017-02-22 15:55:24
+  actual_working_hours: 2017-02-22 15:55:24
+  shift: two

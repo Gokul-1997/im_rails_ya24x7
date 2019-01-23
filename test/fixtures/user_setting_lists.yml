@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  setting_name: MyString
+  is_active: false
+  user_setting: one
+
+two:
+  setting_name: MyString
+  is_active: false
+  user_setting: two

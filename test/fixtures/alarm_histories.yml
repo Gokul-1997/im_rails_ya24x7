@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  alarm_type: MyString
+  alarm_no: MyString
+  axis_no: MyString
+  time: 2018-06-13 16:40:42
+  message: MyString
+  alarm_status: 1
+  machine: one
+
+two:
+  alarm_type: MyString
+  alarm_no: MyString
+  axis_no: MyString
+  time: 2018-06-13 16:40:42
+  message: MyString
+  alarm_status: 1
+  machine: two
